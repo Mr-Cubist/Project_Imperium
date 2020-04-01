@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/abyssalrock",
+    "up": "xenoclus_v:blocks/abyssalrocklumigrassytop",
+    "north": "xenoclus_v:blocks/abyssalrocklumigrassy",
+    "east": "xenoclus_v:blocks/abyssalrocklumigrassy",
+    "south": "xenoclus_v:blocks/abyssalrocklumigrassy",
+    "west": "xenoclus_v:blocks/abyssalrocklumigrassy",
+    "particle": "xenoclus_v:blocks/abyssalrock"
+  }
+}

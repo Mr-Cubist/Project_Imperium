@@ -1,0 +1,24 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "ink_sac",
+    "customModelName": "Normal",
+    "name": "Blood Sack",
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 1,
+    "saturation": 0.30000001192092896,
+    "eatingSpeed": 36,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "EatBloodSAckPro"
+    }
+  }
+}

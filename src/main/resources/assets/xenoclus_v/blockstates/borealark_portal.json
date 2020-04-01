@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "xenoclus_v:borealark_portal_ew"
+    },
+    "axis=x": {
+      "model": "xenoclus_v:borealark_portal_ns"
+    },
+    "inventory": {
+      "model": "xenoclus_v:borealark_portal_ns"
+    }
+  }
+}

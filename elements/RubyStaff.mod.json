@@ -1,0 +1,35 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "iron_shovel",
+    "customModelName": "Normal",
+    "name": "Ruby Staff",
+    "creativeTab": {
+      "value": "CUSTOM:UmbraTab"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Ruby"
+    },
+    "shootConstantly": false,
+    "usageCount": 101,
+    "actionSound": {
+      "value": "entity.blaze.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.1,
+    "bulletDamage": 6.800000000000001,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Representer"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

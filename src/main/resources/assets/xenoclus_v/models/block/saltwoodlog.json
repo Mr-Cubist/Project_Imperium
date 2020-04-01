@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/stripped_dark_oak_logcopy3",
+    "up": "xenoclus_v:blocks/stripped_dark_oak_logcopy3",
+    "north": "xenoclus_v:blocks/stripped_birch_log",
+    "east": "xenoclus_v:blocks/stripped_birch_log",
+    "south": "xenoclus_v:blocks/stripped_birch_log",
+    "west": "xenoclus_v:blocks/stripped_birch_log",
+    "particle": "xenoclus_v:blocks/stripped_dark_oak_logcopy3"
+  }
+}

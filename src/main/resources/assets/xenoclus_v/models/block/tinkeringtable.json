@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/tinkeringtablesidecopy4",
+    "up": "xenoclus_v:blocks/tinkeringtablesidecopy5",
+    "north": "xenoclus_v:blocks/tinkeringtablesidecopy3",
+    "east": "xenoclus_v:blocks/tinkeringtableside",
+    "south": "xenoclus_v:blocks/tinkeringtablesidecopy2",
+    "west": "xenoclus_v:blocks/tinkeringtablesidecopy",
+    "particle": "xenoclus_v:blocks/tinkeringtablesidecopy4"
+  }
+}

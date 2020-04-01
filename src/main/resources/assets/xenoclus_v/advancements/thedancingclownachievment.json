@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:circuseye"
+    },
+    "title": {
+      "translate": "advancements.thedancingclownachievment.title"
+    },
+    "description": {
+      "translate": "advancements.thedancingclownachievment.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thedancingclownachievment": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:umbraminingachievment"
+}

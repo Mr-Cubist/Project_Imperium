@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "sweet_berriescopy",
+    "customModelName": "Normal",
+    "name": "Warm Berries",
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 0.30000001192092896,
+    "eatingSpeed": 76,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

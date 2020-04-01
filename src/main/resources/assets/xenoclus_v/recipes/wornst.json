@@ -1,0 +1,21 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:sandstone",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:wornsandstone",
+    "count": 1
+  }
+}

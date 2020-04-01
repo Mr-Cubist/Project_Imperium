@@ -1,0 +1,109 @@
+{
+  "_fv": 6,
+  "_type": "mob",
+  "definition": {
+    "mobName": "Treant",
+    "mobLabel": "",
+    "mobModelTexture": "creeper.png",
+    "mobModelName": "Creeper",
+    "modelWidth": 0.6,
+    "modelHeight": 1.7,
+    "modelShadowSize": 0.5,
+    "armorBaseValue": 1.1,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -13421773,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -6684775,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "isBoss": false,
+    "bossBarColor": "PINK",
+    "bossBarType": "PROGRESS",
+    "equipmentMainHand": {
+      "value": ""
+    },
+    "equipmentOffHand": {
+      "value": ""
+    },
+    "equipmentHelmet": {
+      "value": ""
+    },
+    "equipmentBody": {
+      "value": ""
+    },
+    "equipmentLeggings": {
+      "value": ""
+    },
+    "equipmentBoots": {
+      "value": ""
+    },
+    "mobBehaviourType": "Mob",
+    "mobCreatureType": "UNDEFINED",
+    "attackStrength": 4,
+    "movementSpeed": 0.4,
+    "trackingRange": 64,
+    "health": 24,
+    "xpAmount": 5,
+    "waterMob": false,
+    "flyingMob": false,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": true,
+    "immuneToArrows": true,
+    "immuneToFallDamage": true,
+    "immuneToCactus": false,
+    "immuneToDrowning": false,
+    "immuneToLightning": false,
+    "immuneToPotions": true,
+    "immuneToPlayer": false,
+    "mobDrop": {
+      "value": "Items.COAL#1"
+    },
+    "livingSound": {
+      "value": "entity.wither_skeleton.ambient"
+    },
+    "hurtSound": {
+      "value": "block.wood.hit"
+    },
+    "deathSound": {
+      "value": "block.wood.break"
+    },
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "SLIME"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.09999999850988389,
+    "particleAmount": 1,
+    "particleSpawningCondition": "ALWAYS",
+    "hasAI": true,
+    "aiBase": "Creeper",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"wander\"><field name=\"speed\">1</field><next><block type=\"look_around\"><next><block type=\"swim_in_water\"><next><block type=\"attack_action\"><field name=\"callhelp\">TRUE</field></block></next></block></next></block></next></block></next></block></xml>",
+    "breedable": false,
+    "breedTriggerItems": [],
+    "ranged": false,
+    "rangedAttackItem": {
+      "value": ""
+    },
+    "spawnThisMob": true,
+    "doesDespawnWhenIdle": true,
+    "spawningProbability": 11,
+    "mobSpawningType": "monster",
+    "minNumberOfMobsPerGroup": 3,
+    "maxNumberOfMobsPerGroup": 5,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:EbonyForest"
+      }
+    ],
+    "spawnInDungeons": false
+  }
+}

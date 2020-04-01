@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:creepaliskhammer"
+    },
+    "title": {
+      "translate": "advancements.itshammertime.title"
+    },
+    "description": {
+      "translate": "advancements.itshammertime.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "itshammertime": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "xenoclus_v:creepaliskhammer",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "xenoclus_v:okboomer"
+}

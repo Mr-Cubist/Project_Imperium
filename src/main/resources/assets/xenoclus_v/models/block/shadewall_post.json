@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_post",
+  "textures": {
+    "wall": "xenoclus_v:blocks/netherpavementcopy5",
+    "particle": "xenoclus_v:blocks/netherpavementcopy5"
+  }
+}

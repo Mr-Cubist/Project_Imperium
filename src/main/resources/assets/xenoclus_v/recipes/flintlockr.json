@@ -1,0 +1,30 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:alloy"
+    },
+    "1": {
+      "item": "xenoclus_v:alloy"
+    },
+    "2": {
+      "item": "xenoclus_v:alloyplate"
+    },
+    "4": {
+      "item": "minecraft:gunpowder"
+    },
+    "5": {
+      "item": "minecraft:log",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:flintlockpistol",
+    "count": 1
+  }
+}

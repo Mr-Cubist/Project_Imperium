@@ -1,0 +1,66 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "creepaliskhelm",
+    "enableBody": true,
+    "textureBody": "creepaliskchest",
+    "enableLeggings": true,
+    "textureLeggings": "creepaliskleggings",
+    "enableBoots": true,
+    "textureBoots": "creepaliskboots",
+    "onHelmetTick": {
+      "name": "CreepaliskARmorBuffProcedure"
+    },
+    "onBodyTick": {
+      "name": "CreepaliskARmorBuffProcedure"
+    },
+    "onLeggingsTick": {
+      "name": "CreepaliskARmorBuffProcedure"
+    },
+    "onBootsTick": {
+      "name": "CreepaliskARmorBuffProcedure"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:XenoclusOverwolrd"
+    },
+    "armorTextureFile": "creepaliskb_",
+    "helmetName": "Creepalisk Helmet",
+    "bodyName": "Creepalisk Chestplate",
+    "leggingsName": "Creepalisk Leggings",
+    "bootsName": "Creepalisk Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 36,
+    "damageValueHelmet": 5,
+    "damageValueBody": 9,
+    "damageValueLeggings": 8,
+    "damageValueBoots": 5,
+    "enchantability": 13,
+    "toughness": 2.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:AncientOverworldShard"
+      },
+      {
+        "value": "Items.EMERALD"
+      }
+    ]
+  }
+}

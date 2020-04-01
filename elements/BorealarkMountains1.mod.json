@@ -1,0 +1,70 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Rocky Mountains",
+    "groundBlock": {
+      "value": "CUSTOM:SnowySoftStone"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:SoftStone"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 1,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "Blocks.AIR"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -3355444,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16751053,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16777063,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 1.0,
+    "temperature": 0.05,
+    "baseHeight": 1.0,
+    "heightVariation": 0.99,
+    "spawnBiome": false,
+    "biomeWeight": 2,
+    "biomeType": "COOL",
+    "biomeCategory": "ICY",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "SNOWY",
+      "MOUNTAIN",
+      "COLD"
+    ],
+    "spawnList": []
+  }
+}

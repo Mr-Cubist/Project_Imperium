@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "trueanimatedkelp",
+    "customModelName": "Cross model",
+    "plantType": "growapable",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 13,
+    "name": "Green Kelp",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "hardness": 0.21000000000000002,
+    "resistance": 0.5,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "Items.WHEAT_SEEDS"
+    },
+    "dropAmount": 0,
+    "isReplaceable": false,
+    "colorOnMap": "GREEN",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 31,
+    "spawnWorldTypes": [
+      "CUSTOM:Azathoth"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:KelpForest"
+      }
+    ]
+  }
+}

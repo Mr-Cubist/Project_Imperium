@@ -1,0 +1,32 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:circuswood"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "xenoclus_v:circuswood"
+    },
+    "3": {
+      "item": "xenoclus_v:circuswood"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "xenoclus_v:circuswood"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:circusfence",
+    "count": 3
+  }
+}

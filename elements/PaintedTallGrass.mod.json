@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "paintedsoilcopy4",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 3,
+    "name": "Painted Tall Grass",
+    "creativeTab": {
+      "value": "CUSTOM:UmbraTab"
+    },
+    "hardness": 0.21000000000000002,
+    "resistance": 2.5,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "Items.DYE#12"
+    },
+    "dropAmount": 0,
+    "isReplaceable": true,
+    "colorOnMap": "BLUE",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 40,
+    "spawnWorldTypes": [
+      "CUSTOM:Umbra"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:PaintedSwamp"
+      }
+    ]
+  }
+}

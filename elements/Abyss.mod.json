@@ -1,0 +1,65 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:AbyssalScaltoneBricks"
+    },
+    "portalParticles": {
+      "value": "END_ROD"
+    },
+    "portalLuminance": 1.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Trench Artifact",
+    "igniterTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "texture": "abyssalartifactpng",
+    "portalTexture": "abyssalportal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:AbyssalBasic"
+      },
+      {
+        "value": "CUSTOM:DepthFalls"
+      },
+      {
+        "value": "CUSTOM:TrenchSands"
+      },
+      {
+        "value": "CUSTOM:AbyssalWastes"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:AbyssalStone"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:TrenchSand"
+    },
+    "tertiaryFillerBlock": {
+      "value": "CUSTOM:Malgea"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -16777165,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": true,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": "CUSTOM:theoldone"
+    }
+  }
+}

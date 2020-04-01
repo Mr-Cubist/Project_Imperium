@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "frozencoral",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 3,
+    "name": "Frozen Coral",
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "hardness": 0.21,
+    "resistance": 2.5,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "GLASS"
+    },
+    "customDrop": {
+      "value": "Items.WHEAT_SEEDS"
+    },
+    "dropAmount": 0,
+    "isReplaceable": true,
+    "colorOnMap": "ICE",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Borealark"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:IcePlains"
+      }
+    ]
+  }
+}

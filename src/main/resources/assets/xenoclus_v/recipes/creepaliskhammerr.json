@@ -1,0 +1,30 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:ancientoverworldshard"
+    },
+    "1": {
+      "item": "xenoclus_v:ancientoverworldshard"
+    },
+    "2": {
+      "item": "xenoclus_v:ancientoverworldshard"
+    },
+    "4": {
+      "item": "minecraft:emerald"
+    },
+    "7": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:creepaliskhammer",
+    "count": 1
+  }
+}

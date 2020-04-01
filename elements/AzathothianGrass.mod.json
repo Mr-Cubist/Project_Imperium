@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "trueanimatedkelpgrass",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "name": "Sea Flora",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "hardness": -0.49,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "Items.WHEAT_SEEDS"
+    },
+    "dropAmount": 0,
+    "isReplaceable": true,
+    "colorOnMap": "PINK",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 32,
+    "spawnWorldTypes": [
+      "CUSTOM:Azathoth"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:KelpForest"
+      }
+    ]
+  }
+}

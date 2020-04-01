@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "codcopy",
+    "customModelName": "Normal",
+    "name": "Cooked Fleef Fish",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 6,
+    "saturation": 0.30000001192092896,
+    "eatingSpeed": 32,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

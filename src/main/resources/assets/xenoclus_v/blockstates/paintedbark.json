@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "xenoclus_v:paintedbark"
+    },
+    "facing=south": {
+      "model": "xenoclus_v:paintedbark"
+    },
+    "facing=north": {
+      "model": "xenoclus_v:paintedbark"
+    },
+    "facing=east": {
+      "model": "xenoclus_v:paintedbark",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "xenoclus_v:paintedbark",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "xenoclus_v:paintedbark",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "xenoclus_v:paintedbark",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

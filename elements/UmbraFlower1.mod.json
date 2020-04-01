@@ -1,0 +1,49 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "umbrasoilcopy11",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "name": "White Ectulip",
+    "creativeTab": {
+      "value": "CUSTOM:UmbraTab"
+    },
+    "hardness": 0.01,
+    "resistance": 2.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:Umbra"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:UmbraPlains"
+      },
+      {
+        "value": "CUSTOM:Autumn"
+      },
+      {
+        "value": "CUSTOM:UmbraForest"
+      }
+    ]
+  }
+}

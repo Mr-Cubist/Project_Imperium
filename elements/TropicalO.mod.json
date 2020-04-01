@@ -1,0 +1,73 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Tropics",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "generateLakes": true,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 2,
+    "spawnVines": true,
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeStem": {
+      "value": "Blocks.LOG#3"
+    },
+    "treeBranch": {
+      "value": "Blocks.LEAVES#3"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -3355393,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -13382656,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16711681,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 10,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 24,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 6,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.7000000000000001,
+    "temperature": 0.6,
+    "baseHeight": 0.09,
+    "heightVariation": 0.18,
+    "spawnBiome": true,
+    "biomeWeight": 3,
+    "biomeType": "DESERT",
+    "biomeCategory": "JUNGLE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "BEACH",
+      "JUNGLE"
+    ],
+    "spawnList": [
+      {
+        "value": "EntityParrot"
+      }
+    ]
+  }
+}

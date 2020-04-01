@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/shadedbigtile",
+    "up": "xenoclus_v:blocks/shadedbigtile",
+    "north": "xenoclus_v:blocks/shadedbigtile",
+    "east": "xenoclus_v:blocks/shadedbigtile",
+    "south": "xenoclus_v:blocks/shadedbigtile",
+    "west": "xenoclus_v:blocks/shadedbigtile",
+    "particle": "xenoclus_v:blocks/shadedbigtile"
+  }
+}

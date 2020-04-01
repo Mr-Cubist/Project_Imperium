@@ -1,0 +1,32 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "pumpkinfield",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 8000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 2,
+    "spawnWorldTypes": [
+      "CUSTOM:Umbra"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:EbonyGrass"
+      },
+      {
+        "value": "CUSTOM:UmbraGrass"
+      },
+      {
+        "value": "CUSTOM:AutumnDIrt"
+      },
+      {
+        "value": "CUSTOM:UmbraPeat"
+      }
+    ],
+    "restrictionBiomes": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:alloyplate"
+    },
+    "1": {
+      "item": "xenoclus_v:alloy"
+    },
+    "2": {
+      "item": "xenoclus_v:alloyplate"
+    },
+    "3": {
+      "item": "minecraft:furnace"
+    },
+    "4": {
+      "item": "minecraft:minecart"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "xenoclus_v:alloy"
+    },
+    "7": {
+      "item": "xenoclus_v:alloyplate"
+    },
+    "8": {
+      "item": "xenoclus_v:alloy"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:snowmobileitem",
+    "count": 1
+  }
+}

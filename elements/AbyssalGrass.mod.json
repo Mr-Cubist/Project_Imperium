@@ -1,0 +1,39 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "abyssalgrass",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 3,
+    "name": "Abyssal Grass",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "hardness": 1.0,
+    "resistance": 1.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "Items.MELON_SEEDS"
+    },
+    "dropAmount": 0,
+    "isReplaceable": true,
+    "colorOnMap": "BLUE",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 15,
+    "spawnWorldTypes": [
+      "CUSTOM:Abyss"
+    ],
+    "restrictionBiomes": []
+  }
+}

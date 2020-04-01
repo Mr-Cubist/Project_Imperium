@@ -1,0 +1,46 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "trueanimatedpastelanemone",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 3,
+    "name": "Pastel Anemone",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "hardness": 0.010000000000000009,
+    "resistance": 0.5,
+    "luminance": 0.6,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "SLIME"
+    },
+    "customDrop": {
+      "value": "CUSTOM:PastelGrass"
+    },
+    "dropAmount": 0,
+    "isReplaceable": true,
+    "colorOnMap": "YELLOW",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 2,
+    "spawnWorldTypes": [
+      "CUSTOM:Azathoth"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:PastelPalms"
+      },
+      {
+        "value": "CUSTOM:BrightReef"
+      }
+    ]
+  }
+}

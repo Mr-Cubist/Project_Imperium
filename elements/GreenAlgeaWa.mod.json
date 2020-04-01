@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "trueanimatedgreenalgea",
+    "customModelName": "Cross model",
+    "plantType": "growapable",
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 6,
+    "name": "Green Algea",
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "hardness": 0.010000000000000009,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "Items.WHEAT_SEEDS"
+    },
+    "dropAmount": 0,
+    "isReplaceable": false,
+    "colorOnMap": "GREEN",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 29,
+    "spawnWorldTypes": [
+      "CUSTOM:Azathoth"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:KelpForest"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xenoclus_v:blocks/sunkenstoneprisorn",
+    "particle": "xenoclus_v:blocks/sunkenstoneprisorn"
+  }
+}

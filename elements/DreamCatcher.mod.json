@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "fishing_rod_cast",
+    "customModelName": "Normal",
+    "name": "Dream Catcher",
+    "creativeTab": {
+      "value": "CUSTOM:XenoclusOverwolrd"
+    },
+    "toolType": "Special",
+    "harvestLevel": 6,
+    "efficiency": 500.0,
+    "attackSpeed": 2.8,
+    "enchantability": 5,
+    "damageVsEntity": 5.0,
+    "usageCount": 100,
+    "blocksAffected": [
+      {
+        "value": "CUSTOM:AuroraLight"
+      }
+    ],
+    "hasGlow": true,
+    "repairItems": [],
+    "onCrafted": {
+      "name": "DreamCatcherProcedure"
+    }
+  }
+}

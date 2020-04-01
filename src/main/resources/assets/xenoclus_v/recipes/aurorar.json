@@ -1,0 +1,19 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xenoclus_v:dreamdust"
+    },
+    {
+      "item": "xenoclus_v:dreamdust"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "xenoclus_v:auroralight",
+    "count": 2
+  }
+}

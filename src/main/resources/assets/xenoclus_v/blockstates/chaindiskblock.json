@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "xenoclus_v:chaindiskblock"
+    },
+    "facing=north": {
+      "model": "xenoclus_v:chaindiskblock"
+    },
+    "facing=east": {
+      "model": "xenoclus_v:chaindiskblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xenoclus_v:chaindiskblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xenoclus_v:chaindiskblock",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xenoclus_v:blocks/snowy_christmas_tree_white_lights_middle",
+    "particle": "xenoclus_v:blocks/snowy_christmas_tree_white_lights_middle"
+  }
+}

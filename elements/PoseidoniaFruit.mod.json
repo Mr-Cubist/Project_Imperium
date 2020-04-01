@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "poseidoniafruit",
+    "customModelName": "Normal",
+    "name": "Poseidonia Fruit",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 5,
+    "saturation": 0.3,
+    "eatingSpeed": 30,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

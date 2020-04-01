@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/ebonyroots",
+    "up": "xenoclus_v:blocks/ebonyroots",
+    "north": "xenoclus_v:blocks/ebonyroots",
+    "east": "xenoclus_v:blocks/ebonyroots",
+    "south": "xenoclus_v:blocks/ebonyroots",
+    "west": "xenoclus_v:blocks/ebonyroots",
+    "particle": "xenoclus_v:blocks/ebonyroots"
+  }
+}

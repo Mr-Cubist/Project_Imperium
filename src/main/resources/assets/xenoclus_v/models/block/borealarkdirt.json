@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/grass_path_top",
+    "up": "xenoclus_v:blocks/grass_path_top",
+    "north": "xenoclus_v:blocks/grass_path_top",
+    "east": "xenoclus_v:blocks/grass_path_top",
+    "south": "xenoclus_v:blocks/grass_path_top",
+    "west": "xenoclus_v:blocks/grass_path_top",
+    "particle": "xenoclus_v:blocks/grass_path_top"
+  }
+}

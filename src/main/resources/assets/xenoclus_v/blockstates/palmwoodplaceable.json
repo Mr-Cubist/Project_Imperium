@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "xenoclus_v:palmwoodplaceable"
+    },
+    "facing=south": {
+      "model": "xenoclus_v:palmwoodplaceable"
+    },
+    "facing=north": {
+      "model": "xenoclus_v:palmwoodplaceable"
+    },
+    "facing=east": {
+      "model": "xenoclus_v:palmwoodplaceable",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "xenoclus_v:palmwoodplaceable",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "xenoclus_v:palmwoodplaceable",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "xenoclus_v:palmwoodplaceable",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

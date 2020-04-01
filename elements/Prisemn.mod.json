@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "prisemnhelmet",
+    "enableBody": true,
+    "textureBody": "prisemnchestplate",
+    "enableLeggings": true,
+    "textureLeggings": "prisemnleggings",
+    "enableBoots": true,
+    "textureBoots": "prisemnboots",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "armorTextureFile": "prisemn_",
+    "helmetName": "Prisemn Helmet",
+    "bodyName": "Prisemn Chestplate",
+    "leggingsName": "Prisemn Leggings",
+    "bootsName": "Prisemn Boots",
+    "helmetModelName": "ModelPrisemnHelmet",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "helm.png",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 34,
+    "damageValueHelmet": 9,
+    "damageValueBody": 10,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 7,
+    "enchantability": 16,
+    "toughness": 1.5,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

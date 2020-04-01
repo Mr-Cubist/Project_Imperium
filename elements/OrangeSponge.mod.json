@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "orangesponge",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Desert",
+    "growapableMaxHeight": 3,
+    "name": "Sun Coral",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "hardness": 0.41000000000000003,
+    "resistance": 2.5,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "STONE"
+    },
+    "customDrop": {
+      "value": "CUSTOM:PastelGrass"
+    },
+    "dropAmount": 0,
+    "isReplaceable": true,
+    "colorOnMap": "ORANGE_STAINED_HARDENED_CLAY",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:Azathoth"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:BrightReef"
+      }
+    ]
+  }
+}

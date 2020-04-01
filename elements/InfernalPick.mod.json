@@ -1,0 +1,25 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "blaze_rod",
+    "customModelName": "Normal",
+    "name": "Infernal Pick",
+    "creativeTab": {
+      "value": "CUSTOM:XenoclusOverwolrd"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 12,
+    "efficiency": 40.0,
+    "attackSpeed": 2.8,
+    "enchantability": 5,
+    "damageVsEntity": 6.0,
+    "usageCount": 333,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "onCrafted": {
+      "name": "InfernalPickAchievement"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:christmastreewhitetop"
+    },
+    "title": {
+      "translate": "advancements.merrychristmas.title"
+    },
+    "description": {
+      "translate": "advancements.merrychristmas.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "merrychristmas": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:borealarkachievement"
+}

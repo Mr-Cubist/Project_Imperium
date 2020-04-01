@@ -1,0 +1,19 @@
+{
+  "_fv": 6,
+  "_type": "fluid",
+  "definition": {
+    "name": "NacreousGas",
+    "textureStill": "aruorathingy",
+    "textureFlowing": "aruorathingy",
+    "luminosity": 2,
+    "density": -1,
+    "viscosity": 991,
+    "isGas": true,
+    "type": "WATER",
+    "generateBucket": true,
+    "spawnWorldTypes": [],
+    "onEntityCollides": {
+      "name": "GlowPro"
+    }
+  }
+}

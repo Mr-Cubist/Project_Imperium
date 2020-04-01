@@ -1,0 +1,8 @@
+{
+  "parent": "xenoclus_v:custom/aquaticflora",
+  "textures": {
+    "all": "xenoclus_v:blocks/umbrapad",
+    "particle": "xenoclus_v:blocks/umbrapad",
+    "0": "xenoclus_v:blocks/iamdonewiththis"
+  }
+}

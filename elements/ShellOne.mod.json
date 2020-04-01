@@ -1,0 +1,49 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "newseashell",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 3,
+    "name": "Spiral Shell",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "hardness": 0.61,
+    "resistance": 3.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "GLASS"
+    },
+    "customDrop": {
+      "value": "Items.FLINT"
+    },
+    "dropAmount": 0,
+    "isReplaceable": false,
+    "colorOnMap": "SAND",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 4,
+    "spawnWorldTypes": [
+      "CUSTOM:Azathoth"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:AzathothAquaBeach"
+      },
+      {
+        "value": "CUSTOM:PastelPalms"
+      },
+      {
+        "value": "CUSTOM:AzathothMountains"
+      }
+    ]
+  }
+}

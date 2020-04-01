@@ -1,0 +1,26 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:mooncheese"
+    },
+    "1": {
+      "item": "xenoclus_v:mooncheese"
+    },
+    "2": {
+      "item": "xenoclus_v:mooncheese"
+    },
+    "3": {
+      "item": "xenoclus_v:mooncheese"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:mooncheeseblock",
+    "count": 1
+  }
+}

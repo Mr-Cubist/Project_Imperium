@@ -1,0 +1,33 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brick"
+    },
+    "2": {
+      "item": "minecraft:brick"
+    },
+    "3": {
+      "item": "minecraft:brick"
+    },
+    "4": {
+      "item": "minecraft:clay_ball"
+    },
+    "5": {
+      "item": "minecraft:brick"
+    },
+    "7": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:arrowvase",
+    "count": 1
+  }
+}

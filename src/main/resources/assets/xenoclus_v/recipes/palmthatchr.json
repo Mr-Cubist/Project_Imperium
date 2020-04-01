@@ -1,0 +1,42 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:palmleaf"
+    },
+    "1": {
+      "item": "xenoclus_v:palmleaf"
+    },
+    "2": {
+      "item": "xenoclus_v:palmleaf"
+    },
+    "3": {
+      "item": "xenoclus_v:palmleaf"
+    },
+    "4": {
+      "item": "xenoclus_v:palmleaf"
+    },
+    "5": {
+      "item": "xenoclus_v:palmleaf"
+    },
+    "6": {
+      "item": "xenoclus_v:palmleaf"
+    },
+    "7": {
+      "item": "xenoclus_v:palmleaf"
+    },
+    "8": {
+      "item": "xenoclus_v:palmleaf"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:palmthatch",
+    "count": 1
+  }
+}

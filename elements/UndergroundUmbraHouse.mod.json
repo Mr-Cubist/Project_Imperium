@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "shadedhouseu",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 6000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Underground",
+    "spawnHeightOffset": 1,
+    "spawnWorldTypes": [
+      "CUSTOM:Umbra"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:RotGranite"
+      },
+      {
+        "value": "CUSTOM:Umbrastone"
+      }
+    ],
+    "restrictionBiomes": []
+  }
+}

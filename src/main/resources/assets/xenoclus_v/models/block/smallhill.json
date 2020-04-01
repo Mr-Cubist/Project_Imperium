@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xenoclus_v:blocks/umbrafloranew",
+    "particle": "xenoclus_v:blocks/umbrafloranew"
+  }
+}

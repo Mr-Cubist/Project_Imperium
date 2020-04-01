@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:saltwood"
+    },
+    "title": {
+      "translate": "advancements.piratesofthecaribean.title"
+    },
+    "description": {
+      "translate": "advancements.piratesofthecaribean.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "piratesofthecaribean": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:azathothacheivement"
+}

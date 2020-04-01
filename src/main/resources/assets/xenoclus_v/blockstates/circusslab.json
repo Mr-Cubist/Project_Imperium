@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "xenoclus_v:circusslab"
+    },
+    "half=top,variant=default": {
+      "model": "xenoclus_v:circusslab_top"
+    }
+  }
+}

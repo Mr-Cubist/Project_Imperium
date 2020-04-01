@@ -1,0 +1,50 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ShalverIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ShalverIngot"
+      },
+      {
+        "value": "CUSTOM:ShalverIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ShalverIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Silver.boots"
+    },
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "name": "shalverboots",
+    "namespace": "mod"
+  }
+}

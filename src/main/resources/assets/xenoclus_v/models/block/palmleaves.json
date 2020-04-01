@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xenoclus_v:blocks/jungle_logcopy5",
+    "particle": "xenoclus_v:blocks/jungle_logcopy5"
+  }
+}

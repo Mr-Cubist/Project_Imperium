@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/cruncherblend",
+    "up": "xenoclus_v:blocks/cruncherblend",
+    "north": "xenoclus_v:blocks/cruncherblend",
+    "east": "xenoclus_v:blocks/cruncherblend",
+    "south": "xenoclus_v:blocks/cruncherblend",
+    "west": "xenoclus_v:blocks/cruncherblend",
+    "particle": "xenoclus_v:blocks/cruncherblend"
+  }
+}

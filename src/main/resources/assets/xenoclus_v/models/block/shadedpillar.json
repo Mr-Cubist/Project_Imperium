@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/netherpavementcopy9",
+    "up": "xenoclus_v:blocks/netherpavementcopy9",
+    "north": "xenoclus_v:blocks/netherpavementcopy8",
+    "east": "xenoclus_v:blocks/netherpavementcopy8",
+    "south": "xenoclus_v:blocks/netherpavementcopy8",
+    "west": "xenoclus_v:blocks/netherpavementcopy8",
+    "particle": "xenoclus_v:blocks/netherpavementcopy9"
+  }
+}

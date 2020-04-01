@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/frostplanks",
+    "up": "xenoclus_v:blocks/frostplanks",
+    "north": "xenoclus_v:blocks/frostplanks",
+    "east": "xenoclus_v:blocks/frostplanks",
+    "south": "xenoclus_v:blocks/frostplanks",
+    "west": "xenoclus_v:blocks/frostplanks",
+    "particle": "xenoclus_v:blocks/frostplanks"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "_fv": 6,
+  "_type": "mob",
+  "definition": {
+    "mobName": "Mage",
+    "mobLabel": "",
+    "mobModelTexture": "mage.png",
+    "mobModelName": "Zombie",
+    "modelWidth": 0.6,
+    "modelHeight": 1.95,
+    "modelShadowSize": 0.5,
+    "armorBaseValue": 0.0,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -3407872,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -3355444,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "isBoss": false,
+    "bossBarColor": "PINK",
+    "bossBarType": "PROGRESS",
+    "equipmentMainHand": {
+      "value": ""
+    },
+    "equipmentOffHand": {
+      "value": ""
+    },
+    "equipmentHelmet": {
+      "value": ""
+    },
+    "equipmentBody": {
+      "value": ""
+    },
+    "equipmentLeggings": {
+      "value": ""
+    },
+    "equipmentBoots": {
+      "value": ""
+    },
+    "mobBehaviourType": "Mob",
+    "mobCreatureType": "UNDEAD",
+    "attackStrength": 3,
+    "movementSpeed": 0.30000000000000004,
+    "trackingRange": 64,
+    "health": 22,
+    "xpAmount": 5,
+    "waterMob": false,
+    "flyingMob": false,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": false,
+    "immuneToArrows": false,
+    "immuneToFallDamage": false,
+    "immuneToCactus": false,
+    "immuneToDrowning": true,
+    "immuneToLightning": false,
+    "immuneToPotions": true,
+    "immuneToPlayer": false,
+    "mobDrop": {
+      "value": "Items.BONE"
+    },
+    "livingSound": {
+      "value": "entity.stray.ambient"
+    },
+    "hurtSound": {
+      "value": "entity.stray.hurt"
+    },
+    "deathSound": {
+      "value": "entity.stray.death"
+    },
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "SPELL_WITCH"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.1,
+    "particleAmount": 1,
+    "particleSpawningCondition": "ALWAYS",
+    "hasAI": true,
+    "aiBase": "(none)",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"attack_entity\"><field name=\"insight\">FALSE</field><field name=\"nearby\">FALSE</field><field name=\"entity\">EntityPlayer</field><next><block type=\"avoid_entity\"><field name=\"radius\">4</field><field name=\"farspeed\">0.5</field><field name=\"nearspeed\">0.5</field><field name=\"entity\">EntityPlayer</field><next><block type=\"attack_entity\"><field name=\"insight\">FALSE</field><field name=\"nearby\">FALSE</field><field name=\"entity\">EntityPlayerMP</field><next><block type=\"avoid_entity\"><field name=\"radius\">4</field><field name=\"farspeed\">0.5</field><field name=\"nearspeed\">0.5</field><field name=\"entity\">EntityPlayerMP</field><next><block type=\"wander\"><field name=\"speed\">0.6</field><next><block type=\"look_around\"><next><block type=\"swim_in_water\"><next><block type=\"attack_action\"><field name=\"callhelp\">TRUE</field><next><block type=\"doors_open\"/></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></xml>",
+    "breedable": false,
+    "breedTriggerItems": [],
+    "ranged": true,
+    "rangedAttackItem": {
+      "value": "CUSTOM:Representer"
+    },
+    "spawnThisMob": false,
+    "doesDespawnWhenIdle": true,
+    "spawningProbability": 1,
+    "mobSpawningType": "monster",
+    "minNumberOfMobsPerGroup": 1,
+    "maxNumberOfMobsPerGroup": 1,
+    "restrictionBiomes": [],
+    "spawnInDungeons": false
+  }
+}

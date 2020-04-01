@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "xenoclus_v:blocks/red_nether_bricks",
+    "particle": "xenoclus_v:blocks/red_nether_bricks"
+  }
+}

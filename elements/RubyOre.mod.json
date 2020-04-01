@@ -1,0 +1,93 @@
+{
+  "_fv": 6,
+  "_type": "block",
+  "definition": {
+    "texture": "rubyore",
+    "textureTop": "rubyore",
+    "textureLeft": "rubyore",
+    "textureFront": "rubyore",
+    "textureRight": "rubyore",
+    "textureBack": "rubyore",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
+    "hasTransparency": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "faceShape": "SOLID",
+    "name": "Rot Ruby Ore",
+    "specialInfo": [],
+    "hardness": 2.05,
+    "resistance": 10.5,
+    "hasGravity": false,
+    "creativeTab": {
+      "value": "CUSTOM:UmbraTab"
+    },
+    "destroyTool": "pickaxe",
+    "affectedBySilkTouch": false,
+    "customDrop": {
+      "value": "CUSTOM:Ruby"
+    },
+    "dropAmount": 1,
+    "isBeaconBase": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 255,
+    "material": {
+      "value": "ROCK"
+    },
+    "tickRate": 10,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "colorOnMap": "STONE",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "STONE"
+    },
+    "luminance": 0.0,
+    "unbreakable": false,
+    "breakHarvestLevel": 1,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "spawnWorldTypes": [
+      "CUSTOM:Umbra"
+    ],
+    "restrictionBiomes": [],
+    "blocksToReplace": [
+      {
+        "value": "CUSTOM:Umbrastone"
+      }
+    ],
+    "frequencyPerChunks": 2,
+    "frequencyOnChunk": 3,
+    "minGenerateHeight": 10,
+    "maxGenerateHeight": 41
+  }
+}

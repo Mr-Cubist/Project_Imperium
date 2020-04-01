@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:creepaliskaltar"
+    },
+    "title": {
+      "translate": "advancements.awwman.title"
+    },
+    "description": {
+      "translate": "advancements.awwman.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "awwman": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "minecraft:story/mine_stone"
+}

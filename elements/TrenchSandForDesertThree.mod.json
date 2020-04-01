@@ -1,0 +1,97 @@
+{
+  "_fv": 6,
+  "_type": "block",
+  "definition": {
+    "texture": "trenchsand",
+    "textureTop": "trenchsand",
+    "textureLeft": "trenchsand",
+    "textureFront": "trenchsand",
+    "textureRight": "trenchsand",
+    "textureBack": "trenchsand",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
+    "hasTransparency": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "faceShape": "SOLID",
+    "name": "Trench Sand",
+    "specialInfo": [],
+    "hardness": 2.0,
+    "resistance": 15.5,
+    "hasGravity": true,
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "destroyTool": "shovel",
+    "affectedBySilkTouch": false,
+    "customDrop": {
+      "value": "CUSTOM:TrenchSand"
+    },
+    "dropAmount": 1,
+    "isBeaconBase": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 255,
+    "material": {
+      "value": "SAND"
+    },
+    "tickRate": 10,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "colorOnMap": "BLUE",
+    "creativePickItem": {
+      "value": "CUSTOM:TrenchSand"
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "SAND"
+    },
+    "luminance": 0.0,
+    "unbreakable": false,
+    "breakHarvestLevel": 1,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "spawnWorldTypes": [
+      "CUSTOM:Abyss"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:TrenchSands"
+      }
+    ],
+    "blocksToReplace": [
+      {
+        "value": "CUSTOM:AbyssalStone"
+      }
+    ],
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 25,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 128
+  }
+}

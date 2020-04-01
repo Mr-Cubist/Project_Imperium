@@ -1,0 +1,42 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "pumpkinpatch2",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 7976,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 2,
+    "spawnWorldTypes": [
+      "CUSTOM:Umbra"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:UmbraGrass"
+      },
+      {
+        "value": "CUSTOM:UmbraPeat"
+      },
+      {
+        "value": "CUSTOM:EbonyGrass"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:UmbraPlains"
+      },
+      {
+        "value": "CUSTOM:EbonyForest"
+      },
+      {
+        "value": "CUSTOM:UmbraForest"
+      },
+      {
+        "value": "CUSTOM:PeatDesert"
+      }
+    ]
+  }
+}

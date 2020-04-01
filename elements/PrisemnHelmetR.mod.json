@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PrisornIngot"
+      },
+      {
+        "value": "CUSTOM:AquemIngot"
+      },
+      {
+        "value": "CUSTOM:PrisornIngot"
+      },
+      {
+        "value": "CUSTOM:PrisornIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PrisornIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Prisemn.helmet"
+    },
+    "name": "prisemnhelmetr",
+    "namespace": "mod"
+  }
+}

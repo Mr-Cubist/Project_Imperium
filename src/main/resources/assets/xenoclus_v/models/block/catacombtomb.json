@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/birch_plankscopy5",
+    "up": "xenoclus_v:blocks/birch_plankscopy5",
+    "north": "xenoclus_v:blocks/birch_plankscopy5-2copy",
+    "east": "xenoclus_v:blocks/birch_plankscopy5",
+    "south": "xenoclus_v:blocks/birch_plankscopy5",
+    "west": "xenoclus_v:blocks/birch_plankscopy5",
+    "particle": "xenoclus_v:blocks/birch_plankscopy5"
+  }
+}

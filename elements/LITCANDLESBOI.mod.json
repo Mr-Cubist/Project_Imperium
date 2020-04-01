@@ -1,0 +1,87 @@
+{
+  "_fv": 6,
+  "_type": "block",
+  "definition": {
+    "texture": "candleson",
+    "textureTop": "candleson",
+    "textureLeft": "candleson",
+    "textureFront": "candleson",
+    "textureRight": "candleson",
+    "textureBack": "candleson",
+    "renderType": 12,
+    "customModelName": "Cross model",
+    "rotationMode": 0,
+    "hasTransparency": true,
+    "transparencyType": "CUTOUT_MIPPED",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "faceShape": "SOLID",
+    "name": "Lit Candles",
+    "specialInfo": [],
+    "hardness": 1.95,
+    "resistance": 9.5,
+    "hasGravity": true,
+    "creativeTab": {
+      "value": "CUSTOM:XenoclusOverwolrd"
+    },
+    "destroyTool": "axe",
+    "affectedBySilkTouch": true,
+    "customDrop": {
+      "value": "Items.DYE#8"
+    },
+    "dropAmount": 1,
+    "isBeaconBase": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 0,
+    "material": {
+      "value": "CLOTH"
+    },
+    "tickRate": 10,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "colorOnMap": "CLOTH",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": true,
+    "soundOnStep": {
+      "value": "CLOTH"
+    },
+    "luminance": 0.5,
+    "unbreakable": false,
+    "breakHarvestLevel": 1,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "SMOKE_NORMAL"
+    },
+    "particleSpawningShape": "Top",
+    "particleSpawningRadious": 0.19999999850988387,
+    "particleAmount": 1,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
+    "blocksToReplace": [],
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
+    "minGenerateHeight": 10,
+    "maxGenerateHeight": 110
+  }
+}

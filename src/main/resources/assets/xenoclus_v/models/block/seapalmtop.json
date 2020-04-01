@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/astelalmogottom",
+    "up": "xenoclus_v:blocks/astelrasslockop",
+    "north": "xenoclus_v:blocks/astelalmidelgea",
+    "east": "xenoclus_v:blocks/astelalmidelgea",
+    "south": "xenoclus_v:blocks/astelalmidelgea",
+    "west": "xenoclus_v:blocks/astelalmidelgea",
+    "particle": "xenoclus_v:blocks/astelalmogottom"
+  }
+}

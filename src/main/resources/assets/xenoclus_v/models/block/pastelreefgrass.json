@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/andesite",
+    "up": "xenoclus_v:blocks/astelrasslockop",
+    "north": "xenoclus_v:blocks/astelrasslockide",
+    "east": "xenoclus_v:blocks/astelrasslockide",
+    "south": "xenoclus_v:blocks/astelrasslockide",
+    "west": "xenoclus_v:blocks/astelrasslockide",
+    "particle": "xenoclus_v:blocks/andesite"
+  }
+}

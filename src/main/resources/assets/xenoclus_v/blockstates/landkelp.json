@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=1": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=2": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=3": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=4": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=5": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=6": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=7": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=8": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=9": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=10": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=11": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=12": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=13": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=14": {
+      "model": "xenoclus_v:landkelp"
+    },
+    "age=15": {
+      "model": "xenoclus_v:landkelp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ender_pearl"
+    },
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:corruptedemerald",
+    "count": 1
+  }
+}

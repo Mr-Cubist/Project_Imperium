@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:auroralight"
+    },
+    "title": {
+      "translate": "advancements.imagination.title"
+    },
+    "description": {
+      "translate": "advancements.imagination.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "imagination": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:sweetdreams"
+}

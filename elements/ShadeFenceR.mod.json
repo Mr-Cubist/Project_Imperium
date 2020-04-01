@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 6,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Darkstonebricks"
+      },
+      {
+        "value": "CUSTOM:ShalverIngot"
+      },
+      {
+        "value": "CUSTOM:Darkstonebricks"
+      },
+      {
+        "value": "CUSTOM:Darkstonebricks"
+      },
+      {
+        "value": "CUSTOM:ShalverIngot"
+      },
+      {
+        "value": "CUSTOM:Darkstonebricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShadeFence"
+    },
+    "name": "shadefencer",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "xenoclus_v:paintedslab"
+    },
+    "half=top,variant=default": {
+      "model": "xenoclus_v:paintedslab_top"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:borealstone"
+    },
+    "title": {
+      "translate": "advancements.subzeroachievement.title"
+    },
+    "description": {
+      "translate": "advancements.subzeroachievement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "subzeroachievement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:borealarkachievement"
+}

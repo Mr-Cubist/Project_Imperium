@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/newerreefrock",
+    "up": "xenoclus_v:blocks/newerreefrock",
+    "north": "xenoclus_v:blocks/newerreefrock",
+    "east": "xenoclus_v:blocks/newerreefrock",
+    "south": "xenoclus_v:blocks/newerreefrock",
+    "west": "xenoclus_v:blocks/newerreefrock",
+    "particle": "xenoclus_v:blocks/newerreefrock"
+  }
+}

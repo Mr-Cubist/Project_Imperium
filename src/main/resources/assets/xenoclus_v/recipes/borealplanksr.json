@@ -1,0 +1,13 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xenoclus_v:borealwoodlog"
+    }
+  ],
+  "result": {
+    "item": "xenoclus_v:borealplanks",
+    "count": 4
+  }
+}

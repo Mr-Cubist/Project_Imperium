@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "xenoclus_v:textures/azathothachievement.png",
+    "icon": {
+      "item": "xenoclus_v:pastelreefgrass"
+    },
+    "title": {
+      "translate": "advancements.azathothacheivement.title"
+    },
+    "description": {
+      "translate": "advancements.azathothacheivement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "azathothacheivement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  }
+}

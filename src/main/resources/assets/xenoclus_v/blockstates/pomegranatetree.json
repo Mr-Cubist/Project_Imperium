@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=1": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=2": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=3": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=4": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=5": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=6": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=7": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=8": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=9": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=10": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=11": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=12": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=13": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=14": {
+      "model": "xenoclus_v:pomegranatetree"
+    },
+    "age=15": {
+      "model": "xenoclus_v:pomegranatetree"
+    }
+  }
+}

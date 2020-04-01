@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "paintedmahogany",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 120950,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnWorldTypes": [
+      "CUSTOM:Umbra"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:PaintedGrass"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:PaintedSwamp"
+      }
+    ]
+  }
+}

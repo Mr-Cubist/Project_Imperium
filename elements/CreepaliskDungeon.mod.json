@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "creepaliskdungeon",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 3994,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Underground",
+    "spawnHeightOffset": 1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.STONE"
+      }
+    ],
+    "restrictionBiomes": []
+  }
+}

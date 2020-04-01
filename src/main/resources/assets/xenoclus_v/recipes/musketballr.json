@@ -1,0 +1,20 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:alloy"
+    },
+    "1": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:musketball",
+    "count": 2
+  }
+}

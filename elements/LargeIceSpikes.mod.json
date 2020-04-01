@@ -1,0 +1,49 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "frosted_ice_0copy2",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 3,
+    "name": "Large Ice Spikes",
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "hardness": 1.01,
+    "resistance": 3.5,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "GLASS"
+    },
+    "customDrop": {
+      "value": "Items.SNOWBALL"
+    },
+    "dropAmount": 0,
+    "isReplaceable": false,
+    "colorOnMap": "ICE",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 8,
+    "spawnWorldTypes": [
+      "CUSTOM:Borealark"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:ShiverLands"
+      },
+      {
+        "value": "CUSTOM:InsaneMountains"
+      }
+    ],
+    "onEntityCollides": {
+      "name": "DamageOnContact"
+    }
+  }
+}

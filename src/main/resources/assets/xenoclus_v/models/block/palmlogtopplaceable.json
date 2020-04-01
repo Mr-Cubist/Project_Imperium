@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/jungle_logcopy",
+    "up": "xenoclus_v:blocks/jungle_logcopy3",
+    "north": "xenoclus_v:blocks/jungle_logcopy2",
+    "east": "xenoclus_v:blocks/jungle_logcopy2",
+    "south": "xenoclus_v:blocks/jungle_logcopy2",
+    "west": "xenoclus_v:blocks/jungle_logcopy2",
+    "particle": "xenoclus_v:blocks/jungle_logcopy"
+  }
+}

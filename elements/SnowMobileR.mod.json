@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AlloyPlate"
+      },
+      {
+        "value": "CUSTOM:Alloy"
+      },
+      {
+        "value": "CUSTOM:AlloyPlate"
+      },
+      {
+        "value": "Blocks.FURNACE"
+      },
+      {
+        "value": "Items.MINECART"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:Alloy"
+      },
+      {
+        "value": "CUSTOM:AlloyPlate"
+      },
+      {
+        "value": "CUSTOM:Alloy"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SnowMobileITEM"
+    },
+    "name": "snowmobiler",
+    "namespace": "mod"
+  }
+}

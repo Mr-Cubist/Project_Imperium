@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "xenoclus_v:palmslab"
+    },
+    "half=top,variant=default": {
+      "model": "xenoclus_v:palmslab_top"
+    }
+  }
+}

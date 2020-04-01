@@ -1,0 +1,42 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:shadewraps"
+    },
+    "1": {
+      "item": "xenoclus_v:cryofugegem"
+    },
+    "2": {
+      "item": "xenoclus_v:shadewraps"
+    },
+    "3": {
+      "item": "xenoclus_v:cryofugegem"
+    },
+    "4": {
+      "item": "xenoclus_v:shadewraps"
+    },
+    "5": {
+      "item": "xenoclus_v:cryofugegem"
+    },
+    "6": {
+      "item": "xenoclus_v:shadewraps"
+    },
+    "7": {
+      "item": "xenoclus_v:shadewraps"
+    },
+    "8": {
+      "item": "xenoclus_v:shadewraps"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:frostninjaarmorbody",
+    "count": 1
+  }
+}

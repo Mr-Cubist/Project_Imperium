@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "sweet_berries",
+    "customModelName": "Normal",
+    "name": "Frozen Berries",
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 5.0,
+    "specialInfo": [
+      "Frozen to the core"
+    ],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "_fv": 6,
+  "_type": "block",
+  "definition": {
+    "texture": "grass_path_top",
+    "textureTop": "snow",
+    "textureLeft": "grass_path_topcopy",
+    "textureFront": "grass_path_topcopy",
+    "textureRight": "grass_path_topcopy",
+    "textureBack": "grass_path_topcopy",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
+    "hasTransparency": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "faceShape": "SOLID",
+    "name": "Borealark Snowblock",
+    "specialInfo": [],
+    "hardness": 1.1500000000000001,
+    "resistance": 11.5,
+    "hasGravity": false,
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "destroyTool": "shovel",
+    "affectedBySilkTouch": true,
+    "customDrop": {
+      "value": "CUSTOM:BorealarkDirt"
+    },
+    "dropAmount": 1,
+    "isBeaconBase": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": true,
+    "canProvidePower": false,
+    "lightOpacity": 255,
+    "material": {
+      "value": "GROUND"
+    },
+    "tickRate": 10,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "colorOnMap": "SNOW",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "luminance": 0.0,
+    "unbreakable": false,
+    "breakHarvestLevel": 1,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "spawnWorldTypes": [
+      "CUSTOM:Borealark"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:FrozenCity"
+      }
+    ],
+    "blocksToReplace": [
+      {
+        "value": "CUSTOM:FrostedConcrete"
+      }
+    ],
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 20,
+    "minGenerateHeight": 10,
+    "maxGenerateHeight": 110
+  }
+}

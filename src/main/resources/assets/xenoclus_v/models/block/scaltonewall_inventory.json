@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "xenoclus_v:blocks/scalebricksbig",
+    "particle": "xenoclus_v:blocks/scalebricksbig"
+  }
+}

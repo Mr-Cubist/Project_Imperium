@@ -1,0 +1,109 @@
+{
+  "_fv": 6,
+  "_type": "mob",
+  "definition": {
+    "mobName": "Nudibranch",
+    "mobLabel": "",
+    "mobModelTexture": "nudibranch.png",
+    "mobModelName": "ModelSlug",
+    "modelWidth": 0.9,
+    "modelHeight": 0.9,
+    "modelShadowSize": 0.30000000000000004,
+    "armorBaseValue": 0.0,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -6749953,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -13312,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "isBoss": false,
+    "bossBarColor": "PINK",
+    "bossBarType": "PROGRESS",
+    "equipmentMainHand": {
+      "value": ""
+    },
+    "equipmentOffHand": {
+      "value": ""
+    },
+    "equipmentHelmet": {
+      "value": ""
+    },
+    "equipmentBody": {
+      "value": ""
+    },
+    "equipmentLeggings": {
+      "value": ""
+    },
+    "equipmentBoots": {
+      "value": ""
+    },
+    "mobBehaviourType": "Creature",
+    "mobCreatureType": "UNDEFINED",
+    "attackStrength": 1,
+    "movementSpeed": 0.30000000000000004,
+    "trackingRange": 64,
+    "health": 11,
+    "xpAmount": 2,
+    "waterMob": false,
+    "flyingMob": false,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": false,
+    "immuneToArrows": false,
+    "immuneToFallDamage": true,
+    "immuneToCactus": false,
+    "immuneToDrowning": true,
+    "immuneToLightning": false,
+    "immuneToPotions": true,
+    "immuneToPlayer": false,
+    "mobDrop": {
+      "value": "Items.SLIME_BALL"
+    },
+    "livingSound": {
+      "value": ""
+    },
+    "hurtSound": {
+      "value": "game.neutral.hurt"
+    },
+    "deathSound": {
+      "value": "game.neutral.die"
+    },
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "SLIME"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.01,
+    "particleAmount": 1,
+    "particleSpawningCondition": "ALWAYS",
+    "hasAI": true,
+    "aiBase": "(none)",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"583\" y=\"34\"><next><block type=\"wander\"><field name=\"speed\">0.3</field><next><block type=\"look_around\"><next><block type=\"swim_in_water\"><next><block type=\"leap_at_target\"><field name=\"speed\">0.4</field><next><block type=\"panic_when_attacked\"><field name=\"speed\">0.4</field></block></next></block></next></block></next></block></next></block></next></block></xml>",
+    "breedable": false,
+    "breedTriggerItems": [],
+    "ranged": false,
+    "rangedAttackItem": {
+      "value": ""
+    },
+    "spawnThisMob": true,
+    "doesDespawnWhenIdle": true,
+    "spawningProbability": 7,
+    "mobSpawningType": "creature",
+    "minNumberOfMobsPerGroup": 2,
+    "maxNumberOfMobsPerGroup": 3,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:BrightReef"
+      }
+    ],
+    "spawnInDungeons": false
+  }
+}

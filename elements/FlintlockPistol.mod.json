@@ -1,0 +1,38 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 1,
+    "texture": "flintlockt",
+    "customModelName": "threebigdeeflintlock:default",
+    "name": "Flintlock Pistol",
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:MusketBall"
+    },
+    "shootConstantly": false,
+    "usageCount": 120,
+    "actionSound": {
+      "value": "CUSTOM:MusketFire"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 5.0,
+    "bulletPower": 9.700000000000001,
+    "bulletDamage": 5.7,
+    "bulletKnockback": 1,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:MUSKETBALLFIRED"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onRangedItemUsed": {
+      "name": "FlintlockFired"
+    }
+  }
+}

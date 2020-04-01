@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "xenoclus_v:catacombtomb"
+    },
+    "facing=north": {
+      "model": "xenoclus_v:catacombtomb"
+    },
+    "facing=east": {
+      "model": "xenoclus_v:catacombtomb",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xenoclus_v:catacombtomb",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xenoclus_v:catacombtomb",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/cage",
+    "up": "xenoclus_v:blocks/cage",
+    "north": "xenoclus_v:blocks/cage",
+    "east": "xenoclus_v:blocks/cage",
+    "south": "xenoclus_v:blocks/cage",
+    "west": "xenoclus_v:blocks/cage",
+    "particle": "xenoclus_v:blocks/cage"
+  }
+}

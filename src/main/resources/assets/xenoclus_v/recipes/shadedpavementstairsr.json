@@ -1,0 +1,23 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:shadebricktiles"
+    },
+    "2": {
+      "item": "xenoclus_v:shadebricktiles"
+    },
+    "3": {
+      "item": "xenoclus_v:shadebricktiles"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:shadepavementstairs",
+    "count": 3
+  }
+}

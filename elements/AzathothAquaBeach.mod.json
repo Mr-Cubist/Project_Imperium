@@ -1,0 +1,73 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Azathoth Aqua Beach",
+    "groundBlock": {
+      "value": "CUSTOM:WhiteSand"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:WhiteSand"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 3,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "CUSTOM:RoseStone"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": false,
+    "airColor": {
+      "value": -3368449,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16737946,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -13369345,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 1,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.52,
+    "baseHeight": 0.07,
+    "heightVariation": 0.04,
+    "spawnBiome": false,
+    "biomeWeight": 8,
+    "biomeType": "DESERT",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "SANDY",
+      "WET"
+    ],
+    "spawnList": [
+      {
+        "value": "CUSTOM:Tuunchy"
+      }
+    ]
+  }
+}

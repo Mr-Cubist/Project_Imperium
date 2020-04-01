@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/iron_ingotcopy7",
+    "up": "xenoclus_v:blocks/iron_ingotcopy7",
+    "north": "xenoclus_v:blocks/iron_ingotcopy3",
+    "east": "xenoclus_v:blocks/iron_ingotcopy7",
+    "south": "xenoclus_v:blocks/iron_ingotcopy",
+    "west": "xenoclus_v:blocks/iron_ingotcopy7",
+    "particle": "xenoclus_v:blocks/iron_ingotcopy7"
+  }
+}

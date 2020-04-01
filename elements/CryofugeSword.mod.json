@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "unnamed",
+    "customModelName": "Normal",
+    "name": "Cryofuge Sword",
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 0.0,
+    "attackSpeed": 2.8,
+    "enchantability": 23,
+    "damageVsEntity": 4.5,
+    "usageCount": 55,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

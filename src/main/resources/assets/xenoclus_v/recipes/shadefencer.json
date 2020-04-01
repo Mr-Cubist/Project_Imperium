@@ -1,0 +1,32 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:darkstonebricks"
+    },
+    "1": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "2": {
+      "item": "xenoclus_v:darkstonebricks"
+    },
+    "3": {
+      "item": "xenoclus_v:darkstonebricks"
+    },
+    "4": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "5": {
+      "item": "xenoclus_v:darkstonebricks"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:shadefence",
+    "count": 6
+  }
+}

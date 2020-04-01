@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "xenoclus_v:textures/borealarkachievement.png",
+    "icon": {
+      "item": "xenoclus_v:borealarksnowblock"
+    },
+    "title": {
+      "translate": "advancements.borealarkachievement.title"
+    },
+    "description": {
+      "translate": "advancements.borealarkachievement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "borealarkachievement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:palmwoodplanks"
+    },
+    "1": {
+      "item": "xenoclus_v:palmwoodplanks"
+    },
+    "2": {
+      "item": "xenoclus_v:palmwoodplanks"
+    },
+    "3": {
+      "item": "xenoclus_v:palmwoodplanks"
+    },
+    "5": {
+      "item": "xenoclus_v:palmwoodplanks"
+    },
+    "6": {
+      "item": "xenoclus_v:palmwoodplanks"
+    },
+    "7": {
+      "item": "xenoclus_v:palmwoodplanks"
+    },
+    "8": {
+      "item": "xenoclus_v:palmwoodplanks"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 1
+  }
+}

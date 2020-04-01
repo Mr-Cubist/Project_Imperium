@@ -1,0 +1,96 @@
+{
+  "_fv": 6,
+  "_type": "block",
+  "definition": {
+    "texture": "andesitieforumbra",
+    "textureTop": "andesitieforumbra",
+    "textureLeft": "andesitieforumbra",
+    "textureFront": "andesitieforumbra",
+    "textureRight": "andesitieforumbra",
+    "textureBack": "andesitieforumbra",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
+    "hasTransparency": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "faceShape": "SOLID",
+    "name": "Rot Andesite",
+    "specialInfo": [],
+    "hardness": 1.95,
+    "resistance": 9.5,
+    "hasGravity": false,
+    "creativeTab": {
+      "value": "CUSTOM:UmbraTab"
+    },
+    "destroyTool": "pickaxe",
+    "affectedBySilkTouch": false,
+    "customDrop": {
+      "value": "Blocks.STONE#5"
+    },
+    "dropAmount": 1,
+    "isBeaconBase": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 255,
+    "material": {
+      "value": "ROCK"
+    },
+    "tickRate": 10,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "colorOnMap": "GRAY",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "STONE"
+    },
+    "luminance": 0.0,
+    "unbreakable": false,
+    "breakHarvestLevel": 1,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "onStartToDestroy": {
+      "name": "UmbraMIningProcedureA"
+    },
+    "spawnWorldTypes": [
+      "CUSTOM:Umbra"
+    ],
+    "restrictionBiomes": [],
+    "blocksToReplace": [
+      {
+        "value": "CUSTOM:Umbrastone"
+      }
+    ],
+    "frequencyPerChunks": 11,
+    "frequencyOnChunk": 10,
+    "minGenerateHeight": 10,
+    "maxGenerateHeight": 110
+  }
+}

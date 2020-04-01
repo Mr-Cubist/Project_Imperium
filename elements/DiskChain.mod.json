@@ -1,0 +1,41 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 1,
+    "texture": "diskbeingheldinhandalsostopmakingmemad",
+    "customModelName": "discchain:default",
+    "name": "Chain Chackram",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": "CUSTOM:DiskChain"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.witch.throw"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 5.0,
+    "bulletPower": 1.2000000000000002,
+    "bulletDamage": 5.3,
+    "bulletKnockback": 6,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": ""
+    },
+    "bulletModel": "ModelDiskThrown",
+    "customBulletModelTexture": "diskthrown.png",
+    "onBulletHitsBlock": {
+      "name": "ExtendChain"
+    },
+    "onBulletHitsEntity": {
+      "name": "ExtendChain"
+    }
+  }
+}

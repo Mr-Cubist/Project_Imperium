@@ -1,0 +1,16 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:ebonylog"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:ebonyplanks",
+    "count": 4
+  }
+}

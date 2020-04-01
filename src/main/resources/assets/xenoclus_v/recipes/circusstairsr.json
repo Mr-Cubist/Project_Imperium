@@ -1,0 +1,23 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:circuswood"
+    },
+    "2": {
+      "item": "xenoclus_v:circuswood"
+    },
+    "3": {
+      "item": "xenoclus_v:circuswood"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:circusstairs",
+    "count": 3
+  }
+}

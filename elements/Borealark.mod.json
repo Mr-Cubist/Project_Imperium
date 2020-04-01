@@ -1,0 +1,77 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.PACKED_ICE"
+    },
+    "portalParticles": {
+      "value": "SNOW_SHOVEL"
+    },
+    "portalLuminance": 0.54,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Cryotic Book",
+    "igniterTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "texture": "book",
+    "portalTexture": "borealarkportal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:BorealarkPlains"
+      },
+      {
+        "value": "CUSTOM:IcePlains"
+      },
+      {
+        "value": "CUSTOM:BorealarkMountains1"
+      },
+      {
+        "value": "CUSTOM:BorealForest"
+      },
+      {
+        "value": "CUSTOM:ShiverLands"
+      },
+      {
+        "value": "CUSTOM:InsaneMountains"
+      },
+      {
+        "value": "CUSTOM:FrozenCity"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:BorealStone"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:BorealarkDirt"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.SNOW"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -3355444,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "dimensionMusic": {
+      "value": "CUSTOM:BorealarkNight"
+    },
+    "onPlayerEntersDimension": {
+      "name": "BorealarkAchievementPro"
+    }
+  }
+}

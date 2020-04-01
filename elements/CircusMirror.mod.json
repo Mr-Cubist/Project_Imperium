@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "circusmirror",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 6000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Underground",
+    "spawnHeightOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Umbra"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Umbrastone"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Autumn"
+      }
+    ]
+  }
+}

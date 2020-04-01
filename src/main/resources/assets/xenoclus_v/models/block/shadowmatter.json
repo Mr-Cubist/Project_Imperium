@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/darkmatterstuff",
+    "up": "xenoclus_v:blocks/darkmatterstuff",
+    "north": "xenoclus_v:blocks/darkmatterstuff",
+    "east": "xenoclus_v:blocks/darkmatterstuff",
+    "south": "xenoclus_v:blocks/darkmatterstuff",
+    "west": "xenoclus_v:blocks/darkmatterstuff",
+    "particle": "xenoclus_v:blocks/darkmatterstuff"
+  }
+}

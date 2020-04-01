@@ -1,0 +1,73 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Kelp Forest",
+    "groundBlock": {
+      "value": "CUSTOM:GreenAlgeaGrass"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:WaveSoil"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 9,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "CUSTOM:LandKelp"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": false,
+    "airColor": {
+      "value": -10079233,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16751104,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -13369345,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 2,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 1,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.30000000000000004,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 6,
+    "biomeType": "WARM",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "SANDY",
+      "WET"
+    ],
+    "spawnList": [
+      {
+        "value": "CUSTOM:Tuunchy"
+      }
+    ]
+  }
+}

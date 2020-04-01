@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:nacreousprismarine"
+    },
+    "title": {
+      "translate": "advancements.edgeofnowhere.title"
+    },
+    "description": {
+      "translate": "advancements.edgeofnowhere.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "edgeofnowhere": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:subzeroachievement"
+}

@@ -1,0 +1,39 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "smallchorusplant",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 3,
+    "name": "Chorul",
+    "creativeTab": {
+      "value": "CUSTOM:XenoclusOverwolrd"
+    },
+    "hardness": 1.0,
+    "resistance": 0.5,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "CORAL"
+    },
+    "customDrop": {
+      "value": "Items.CHORUS_FRUIT"
+    },
+    "dropAmount": 0,
+    "isReplaceable": true,
+    "colorOnMap": "PURPLE",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 12,
+    "spawnWorldTypes": [
+      "End"
+    ],
+    "restrictionBiomes": []
+  }
+}

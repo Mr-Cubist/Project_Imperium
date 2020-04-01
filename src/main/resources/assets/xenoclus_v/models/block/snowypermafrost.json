@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/diorite",
+    "up": "xenoclus_v:blocks/permafrostsnow",
+    "north": "xenoclus_v:blocks/dioritecopy",
+    "east": "xenoclus_v:blocks/dioritecopy",
+    "south": "xenoclus_v:blocks/dioritecopy",
+    "west": "xenoclus_v:blocks/dioritecopy",
+    "particle": "xenoclus_v:blocks/diorite"
+  }
+}

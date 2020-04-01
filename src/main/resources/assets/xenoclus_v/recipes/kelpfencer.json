@@ -1,0 +1,29 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:kelpplanks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "xenoclus_v:kelpplanks"
+    },
+    "3": {
+      "item": "xenoclus_v:kelpplanks"
+    },
+    "5": {
+      "item": "xenoclus_v:kelpplanks"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:krakenfence",
+    "count": 4
+  }
+}

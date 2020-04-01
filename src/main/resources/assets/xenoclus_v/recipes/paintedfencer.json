@@ -1,0 +1,32 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:paintedplanks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "xenoclus_v:paintedplanks"
+    },
+    "3": {
+      "item": "xenoclus_v:paintedplanks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "xenoclus_v:paintedplanks"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:paintedfence",
+    "count": 3
+  }
+}

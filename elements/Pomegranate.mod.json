@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "apple",
+    "customModelName": "Normal",
+    "name": "Pomegranate",
+    "creativeTab": {
+      "value": "CUSTOM:UmbraTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 5,
+    "saturation": 0.30000001192092896,
+    "eatingSpeed": 32,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "xenoclus_v:meatslab"
+    },
+    "half=top,variant=default": {
+      "model": "xenoclus_v:meatslab_top"
+    }
+  }
+}

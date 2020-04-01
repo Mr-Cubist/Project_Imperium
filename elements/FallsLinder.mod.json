@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "fallslinder",
+    "customModelName": "Cross model",
+    "plantType": "growapable",
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 6,
+    "name": "Falls Linder",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "hardness": 1.5,
+    "resistance": 1.5,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "WOOD"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "colorOnMap": "CYAN",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:Abyss"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:DepthFalls"
+      }
+    ]
+  }
+}

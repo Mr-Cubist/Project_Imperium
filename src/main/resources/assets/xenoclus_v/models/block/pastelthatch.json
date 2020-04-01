@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/pastelthatchtop",
+    "up": "xenoclus_v:blocks/pastelthatchtop",
+    "north": "xenoclus_v:blocks/pastelthatch",
+    "east": "xenoclus_v:blocks/pastelthatch",
+    "south": "xenoclus_v:blocks/pastelthatch",
+    "west": "xenoclus_v:blocks/pastelthatch",
+    "particle": "xenoclus_v:blocks/pastelthatchtop"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "ribcage",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 9000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnWorldTypes": [
+      "CUSTOM:Umbra"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:EbonyGrass"
+      },
+      {
+        "value": "CUSTOM:UmbraGrass"
+      },
+      {
+        "value": "CUSTOM:UmbraPeat"
+      }
+    ],
+    "restrictionBiomes": []
+  }
+}

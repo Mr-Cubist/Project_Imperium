@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "spruce_leavescopy",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "name": "Boreal Grass",
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "hardness": -0.99,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "Items.WHEAT_SEEDS"
+    },
+    "dropAmount": 0,
+    "isReplaceable": true,
+    "colorOnMap": "GRASS",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 16,
+    "spawnWorldTypes": [
+      "CUSTOM:Borealark"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:BorealForest"
+      }
+    ]
+  }
+}

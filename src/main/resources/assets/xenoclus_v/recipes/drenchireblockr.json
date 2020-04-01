@@ -1,0 +1,42 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:drenchire"
+    },
+    "1": {
+      "item": "xenoclus_v:drenchire"
+    },
+    "2": {
+      "item": "xenoclus_v:drenchire"
+    },
+    "3": {
+      "item": "xenoclus_v:drenchire"
+    },
+    "4": {
+      "item": "xenoclus_v:drenchire"
+    },
+    "5": {
+      "item": "xenoclus_v:drenchire"
+    },
+    "6": {
+      "item": "xenoclus_v:drenchire"
+    },
+    "7": {
+      "item": "xenoclus_v:drenchire"
+    },
+    "8": {
+      "item": "xenoclus_v:drenchire"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:drenchireblock",
+    "count": 1
+  }
+}

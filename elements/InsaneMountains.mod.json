@@ -1,0 +1,70 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Insane IceLands",
+    "groundBlock": {
+      "value": "CUSTOM:JaggedIce"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:JaggedIce"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "CUSTOM:TallIceSpike"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": false,
+    "airColor": {
+      "value": -3342337,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16724788,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16777114,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 2,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": -0.05,
+    "baseHeight": 1.1,
+    "heightVariation": 1.0,
+    "spawnBiome": false,
+    "biomeWeight": 2,
+    "biomeType": "ICY",
+    "biomeCategory": "ICY",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "SNOWY",
+      "COLD",
+      "MOUNTAIN"
+    ],
+    "spawnList": []
+  }
+}

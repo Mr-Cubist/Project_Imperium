@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/calmcoralblock",
+    "up": "xenoclus_v:blocks/calmcoralblock",
+    "north": "xenoclus_v:blocks/calmcoralblock",
+    "east": "xenoclus_v:blocks/calmcoralblock",
+    "south": "xenoclus_v:blocks/calmcoralblock",
+    "west": "xenoclus_v:blocks/calmcoralblock",
+    "particle": "xenoclus_v:blocks/calmcoralblock"
+  }
+}

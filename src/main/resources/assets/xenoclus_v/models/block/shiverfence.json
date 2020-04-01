@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "xenoclus_v:blocks/frostplanks",
+    "particle": "xenoclus_v:blocks/frostplanks"
+  }
+}

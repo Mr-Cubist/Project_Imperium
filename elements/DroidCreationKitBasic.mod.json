@@ -1,0 +1,29 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "meleebuildyourownrobot",
+    "customModelName": "Normal",
+    "name": "Basic Droid Kit",
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "stackSize": 16,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 5.0,
+    "specialInfo": [
+      "Use it to spawn in a Droid Guard. They attack hostile entities and can be lead with coal."
+    ],
+    "hasGlow": false,
+    "onRightClickedOnBlock": {
+      "name": "BasicDroidCreation"
+    }
+  }
+}

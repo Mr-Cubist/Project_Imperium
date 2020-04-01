@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:shadewraps"
+    },
+    "title": {
+      "translate": "advancements.untildawn.title"
+    },
+    "description": {
+      "translate": "advancements.untildawn.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "untildawn": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:subzeroachievement"
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:alloyplate"
+    },
+    "title": {
+      "translate": "advancements.alloyplateachievement.title"
+    },
+    "description": {
+      "translate": "advancements.alloyplateachievement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "alloyplateachievement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:rogerrogerachievement"
+}

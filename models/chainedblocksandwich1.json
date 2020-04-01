@@ -1,0 +1,80 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "Desktop/ChainDisk",
+		"particle": "Desktop/ChainDisk"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"north": {"uv": [4, 4, 8, 4.25], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 4.25], "texture": "#0"},
+				"south": {"uv": [12, 4, 16, 4.25], "texture": "#0"},
+				"west": {"uv": [8, 4, 12, 4.25], "texture": "#0"},
+				"up": {"uv": [8, 4, 4, 0], "texture": "#0"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 1, 5],
+			"to": [8, 15, 11],
+			"faces": {
+				"north": {"uv": [1.5, 10, 1.75, 13.5], "texture": "#0"},
+				"east": {"uv": [0, 10, 1.5, 13.5], "texture": "#0"},
+				"south": {"uv": [3.25, 10, 3.5, 13.5], "texture": "#0"},
+				"west": {"uv": [1.75, 10, 3.25, 13.5], "texture": "#0"},
+				"up": {"uv": [1.75, 10, 1.5, 8.5], "texture": "#0"},
+				"down": {"uv": [2, 8.5, 1.75, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 1, 8],
+			"to": [11, 15, 8],
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 1.75, 3.75], "texture": "#0"},
+				"east": {"uv": [0, 0.25, 0.25, 3.75], "texture": "#0"},
+				"south": {"uv": [2, 0.25, 3.5, 3.75], "texture": "#0"},
+				"west": {"uv": [1.75, 0.25, 2, 3.75], "texture": "#0"},
+				"up": {"uv": [1.75, 0.25, 0.25, 0], "texture": "#0"},
+				"down": {"uv": [3.25, 0, 1.75, 0.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 15, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [4, 8.25, 8, 8.5], "texture": "#0"},
+				"east": {"uv": [0, 8.25, 4, 8.5], "texture": "#0"},
+				"south": {"uv": [12, 8.25, 16, 8.5], "texture": "#0"},
+				"west": {"uv": [8, 8.25, 12, 8.5], "texture": "#0"},
+				"up": {"uv": [8, 8.25, 4, 4.25], "texture": "#0"},
+				"down": {"uv": [12, 4.25, 8, 8.25], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "chainedplatform",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "base",
+					"origin": [8, 8, 8],
+					"children": [0]
+				},
+				{
+					"name": "chain",
+					"origin": [8, 8, 8],
+					"children": [1, 2]
+				},
+				{
+					"name": "top",
+					"origin": [8, 8, 8],
+					"children": [3]
+				}
+			]
+		}
+	]
+}

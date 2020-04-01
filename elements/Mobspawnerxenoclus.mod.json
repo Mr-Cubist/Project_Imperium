@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.EGG"
+      },
+      {
+        "value": "CUSTOM:IronCage"
+      },
+      {
+        "value": "Items.EGG"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.MOB_SPAWNER"
+    },
+    "name": "mobspawnerxenoclus",
+    "namespace": "mod"
+  }
+}

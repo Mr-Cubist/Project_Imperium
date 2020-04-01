@@ -1,0 +1,42 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:pastelleaf"
+    },
+    "1": {
+      "item": "xenoclus_v:pastelleaf"
+    },
+    "2": {
+      "item": "xenoclus_v:pastelleaf"
+    },
+    "3": {
+      "item": "xenoclus_v:pastelleaf"
+    },
+    "4": {
+      "item": "xenoclus_v:pastelleaf"
+    },
+    "5": {
+      "item": "xenoclus_v:pastelleaf"
+    },
+    "6": {
+      "item": "xenoclus_v:pastelleaf"
+    },
+    "7": {
+      "item": "xenoclus_v:pastelleaf"
+    },
+    "8": {
+      "item": "xenoclus_v:pastelleaf"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:pastelthatch",
+    "count": 4
+  }
+}

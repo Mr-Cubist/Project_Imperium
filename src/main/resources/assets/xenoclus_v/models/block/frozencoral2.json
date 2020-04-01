@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xenoclus_v:blocks/brain_coral",
+    "particle": "xenoclus_v:blocks/brain_coral"
+  }
+}

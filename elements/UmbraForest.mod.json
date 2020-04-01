@@ -1,0 +1,87 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Umbra Forest",
+    "groundBlock": {
+      "value": "CUSTOM:UmbraGrass"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:UmbraSoil"
+    },
+    "generateLakes": true,
+    "treeType": 0,
+    "vanillaTreeType": "Big trees",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -13434778,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -10092391,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16724992,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 7,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 2,
+    "bigMushroomsChunk": 1,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.6,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "SPOOKY"
+    ],
+    "spawnList": [
+      {
+        "value": "EntityZombieVillager"
+      },
+      {
+        "value": "EntityZombie"
+      },
+      {
+        "value": "EntityWitch"
+      },
+      {
+        "value": "EntitySkeleton"
+      },
+      {
+        "value": "EntitySpider"
+      },
+      {
+        "value": "EntityBat"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:silversword"
+    },
+    "title": {
+      "translate": "advancements.darkknightprocedureshalver.title"
+    },
+    "description": {
+      "translate": "advancements.darkknightprocedureshalver.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "darkknightprocedureshalver": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:umbrashalverachievment"
+}

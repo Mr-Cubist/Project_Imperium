@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "xenoclus_v:alloycogs2"
+    },
+    "facing=north": {
+      "model": "xenoclus_v:alloycogs2"
+    },
+    "facing=east": {
+      "model": "xenoclus_v:alloycogs2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xenoclus_v:alloycogs2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xenoclus_v:alloycogs2",
+      "y": 270
+    }
+  }
+}

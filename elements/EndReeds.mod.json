@@ -1,0 +1,39 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "endreeds",
+    "customModelName": "Cross model",
+    "plantType": "growapable",
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 7,
+    "name": "Reends",
+    "creativeTab": {
+      "value": "CUSTOM:XenoclusOverwolrd"
+    },
+    "hardness": 3.0,
+    "resistance": 4.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "Items.STICK"
+    },
+    "dropAmount": 0,
+    "isReplaceable": false,
+    "colorOnMap": "BLACK",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 7,
+    "spawnWorldTypes": [
+      "End"
+    ],
+    "restrictionBiomes": []
+  }
+}

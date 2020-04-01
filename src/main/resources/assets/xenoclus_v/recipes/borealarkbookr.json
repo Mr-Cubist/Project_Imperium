@@ -1,0 +1,24 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:enchanted_book",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "xenoclus_v:goldenstring"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:borealark",
+    "count": 1
+  }
+}

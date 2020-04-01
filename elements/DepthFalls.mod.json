@@ -1,0 +1,74 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Depth Falls",
+    "groundBlock": {
+      "value": "CUSTOM:FallsStone"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:FallsStone"
+    },
+    "generateLakes": true,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "Blocks.AIR"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -16777114,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16777165,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16777114,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 1.0,
+    "temperature": 0.49,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 6,
+    "biomeType": "WARM",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "WATER",
+      "WET",
+      "SPOOKY"
+    ],
+    "spawnList": [
+      {
+        "value": "CUSTOM:FleeFish2"
+      }
+    ]
+  }
+}

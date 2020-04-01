@@ -1,0 +1,33 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "iceball",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 9899,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnWorldTypes": [
+      "CUSTOM:Borealark"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:SnowyPermafrost"
+      },
+      {
+        "value": "CUSTOM:JaggedIce"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:ShiverLands"
+      },
+      {
+        "value": "CUSTOM:InsaneMountains"
+      }
+    ]
+  }
+}

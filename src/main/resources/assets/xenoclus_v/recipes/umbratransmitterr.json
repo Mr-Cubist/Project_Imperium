@@ -1,0 +1,21 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:skull",
+      "data": 32767
+    },
+    "3": {
+      "item": "xenoclus_v:corruptedemerald"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:umbra",
+    "count": 1
+  }
+}

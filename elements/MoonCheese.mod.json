@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "mooncheese",
+    "customModelName": "Normal",
+    "name": "Moon Cheese",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 6,
+    "saturation": 0.5,
+    "eatingSpeed": 33,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

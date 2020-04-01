@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Drenchire"
+      },
+      {
+        "value": "CUSTOM:Drenchire"
+      },
+      {
+        "value": "CUSTOM:Drenchire"
+      },
+      {
+        "value": "CUSTOM:Drenchire"
+      },
+      {
+        "value": "CUSTOM:Drenchire"
+      },
+      {
+        "value": "CUSTOM:Drenchire"
+      },
+      {
+        "value": "CUSTOM:Drenchire"
+      },
+      {
+        "value": "CUSTOM:Drenchire"
+      },
+      {
+        "value": "CUSTOM:Drenchire"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DrenchireBlock"
+    },
+    "name": "rubyblockrecipe",
+    "namespace": "mod"
+  }
+}

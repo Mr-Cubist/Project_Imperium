@@ -1,0 +1,26 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:parmeseancheese"
+    },
+    "1": {
+      "item": "xenoclus_v:parmeseancheese"
+    },
+    "2": {
+      "item": "xenoclus_v:parmeseancheese"
+    },
+    "3": {
+      "item": "xenoclus_v:parmeseancheese"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:parmeseancheeseblock",
+    "count": 1
+  }
+}

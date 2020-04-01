@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "cod",
+    "customModelName": "Normal",
+    "name": "Raw Flee Fish",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 0.30000001192092896,
+    "eatingSpeed": 34,
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

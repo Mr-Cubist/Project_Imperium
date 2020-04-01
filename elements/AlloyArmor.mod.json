@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "alloyhelmet",
+    "enableBody": true,
+    "textureBody": "alloychestplate",
+    "enableLeggings": true,
+    "textureLeggings": "alloyleggings",
+    "enableBoots": true,
+    "textureBoots": "alloyboots",
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "armorTextureFile": "alloy_layer_1",
+    "helmetName": "Alloy Helmet",
+    "bodyName": "Alloy Chestplate",
+    "leggingsName": "Alloy Leggings",
+    "bootsName": "Alloy Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 27,
+    "damageValueHelmet": 5,
+    "damageValueBody": 7,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 3,
+    "enchantability": 7,
+    "toughness": 0.4,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

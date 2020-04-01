@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "iron_helmetcopy",
+    "enableBody": true,
+    "textureBody": "iron_chestplatecopy",
+    "enableLeggings": true,
+    "textureLeggings": "iron_leggingscopy",
+    "enableBoots": true,
+    "textureBoots": "iron_bootscopy",
+    "creativeTab": {
+      "value": "CUSTOM:BorealarkTab"
+    },
+    "armorTextureFile": "iron_ copy_ copy",
+    "helmetName": "Cryofuge Wraps",
+    "bodyName": "Cryofuge Tunic",
+    "leggingsName": "Cryofuge Pants",
+    "bootsName": "Cryofuge Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 27,
+    "damageValueHelmet": 5,
+    "damageValueBody": 8,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 5,
+    "enchantability": 32,
+    "toughness": 0.30000000000000004
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "coldhouse",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 5951,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 2,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.SNOW_LAYER"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "mutated_taiga_cold"
+      },
+      {
+        "value": "mutated_taiga"
+      },
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "mutated_ice_flats"
+      },
+      {
+        "value": "mutated_taiga_cold"
+      },
+      {
+        "value": "taiga_cold_hills"
+      }
+    ]
+  }
+}

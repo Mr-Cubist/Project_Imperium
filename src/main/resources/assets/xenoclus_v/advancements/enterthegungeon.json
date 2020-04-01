@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:flintlockpistol"
+    },
+    "title": {
+      "translate": "advancements.enterthegungeon.title"
+    },
+    "description": {
+      "translate": "advancements.enterthegungeon.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "enterthegungeon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:alloyplateachievement"
+}

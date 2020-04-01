@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "parmesean",
+    "customModelName": "Normal",
+    "name": "Parmesean Cheese",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 5,
+    "saturation": 0.4,
+    "eatingSpeed": 33,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

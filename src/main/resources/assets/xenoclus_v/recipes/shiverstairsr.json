@@ -1,0 +1,23 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:shiverplanks"
+    },
+    "2": {
+      "item": "xenoclus_v:shiverplanks"
+    },
+    "3": {
+      "item": "xenoclus_v:shiverplanks"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:shiverstairs",
+    "count": 3
+  }
+}

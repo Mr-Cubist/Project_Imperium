@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "xenoclus_v:circuseye"
+    },
+    "facing=north": {
+      "model": "xenoclus_v:circuseye"
+    },
+    "facing=east": {
+      "model": "xenoclus_v:circuseye",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xenoclus_v:circuseye",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xenoclus_v:circuseye",
+      "y": 270
+    }
+  }
+}

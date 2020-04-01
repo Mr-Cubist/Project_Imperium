@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Aww Man",
+    "achievementDescription": "Summon the Creepalisk, a large beast of war",
+    "achievementIcon": {
+      "value": "CUSTOM:CreepaliskAltar"
+    },
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardXP": 0,
+    "achievementType": "task",
+    "parent": {
+      "value": "story/mine_stone"
+    },
+    "triggerxml": "<xml><block type=\"custom_trigger\" x=\"40\" y=\"80\"><next><block type=\"advancement_trigger\" deletable=\"false\"/></next></block></xml>"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "xenoclus_v:prisonslab_double"
+    }
+  }
+}

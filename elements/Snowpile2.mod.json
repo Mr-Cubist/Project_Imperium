@@ -1,0 +1,52 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "snowcopy",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "name": "Snowpile",
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "hardness": 0.11,
+    "resistance": 1.5,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "SNOW"
+    },
+    "customDrop": {
+      "value": "Items.SNOWBALL"
+    },
+    "dropAmount": 3,
+    "isReplaceable": false,
+    "colorOnMap": "SNOW",
+    "creativePickItem": {
+      "value": "CUSTOM:SnowPile1"
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 9,
+    "spawnWorldTypes": [
+      "CUSTOM:Borealark"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:BorealarkPlains"
+      },
+      {
+        "value": "CUSTOM:BorealarkMountains1"
+      },
+      {
+        "value": "CUSTOM:BorealForest"
+      },
+      {
+        "value": "CUSTOM:FrozenCity"
+      }
+    ]
+  }
+}

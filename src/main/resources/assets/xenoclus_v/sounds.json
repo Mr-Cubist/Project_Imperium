@@ -1,0 +1,92 @@
+{
+  "UmbraSong1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "xenoclus_v:umbra2",
+        "stream": false
+      }
+    ]
+  },
+  "Umbrasong2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "xenoclus_v:umbra3",
+        "stream": false
+      }
+    ]
+  },
+  "BorealarkDay": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "xenoclus_v:cryoday",
+        "stream": false
+      }
+    ]
+  },
+  "BorealarkNight": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "xenoclus_v:cryonight",
+        "stream": false
+      }
+    ]
+  },
+  "BKUnderground1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "xenoclus_v:cryounderground1",
+        "stream": false
+      }
+    ]
+  },
+  "BKUnderground2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "xenoclus_v:cryounderground2",
+        "stream": false
+      }
+    ]
+  },
+  "MusketFire": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "xenoclus_v:rpreplay_final1573313111",
+        "stream": false
+      }
+    ]
+  },
+  "AzathothSurface": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "xenoclus_v:azathoth",
+        "stream": true
+      }
+    ]
+  },
+  "theoldone": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "xenoclus_v:theoldone",
+        "stream": true
+      }
+    ]
+  },
+  "boss": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "xenoclus_v:boss",
+        "stream": false
+      }
+    ]
+  }
+}

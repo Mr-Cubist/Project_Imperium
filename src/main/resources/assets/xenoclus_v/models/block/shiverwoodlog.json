@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/acacia_logcopy",
+    "up": "xenoclus_v:blocks/acacia_logcopy",
+    "north": "xenoclus_v:blocks/acacia_log",
+    "east": "xenoclus_v:blocks/acacia_log",
+    "south": "xenoclus_v:blocks/acacia_log",
+    "west": "xenoclus_v:blocks/acacia_log",
+    "particle": "xenoclus_v:blocks/acacia_logcopy"
+  }
+}

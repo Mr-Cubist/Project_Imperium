@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/orangespongeblock",
+    "up": "xenoclus_v:blocks/orangespongeblock",
+    "north": "xenoclus_v:blocks/orangespongeblock",
+    "east": "xenoclus_v:blocks/orangespongeblock",
+    "south": "xenoclus_v:blocks/orangespongeblock",
+    "west": "xenoclus_v:blocks/orangespongeblock",
+    "particle": "xenoclus_v:blocks/orangespongeblock"
+  }
+}

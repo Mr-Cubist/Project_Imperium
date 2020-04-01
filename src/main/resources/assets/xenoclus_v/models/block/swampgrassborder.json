@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/umbrasoilcopy3",
+    "up": "xenoclus_v:blocks/umbragrasstopswampborder",
+    "north": "xenoclus_v:blocks/umbragrasssideswampborder",
+    "east": "xenoclus_v:blocks/umbragrasssideswampborder",
+    "south": "xenoclus_v:blocks/umbragrasssideswampborder",
+    "west": "xenoclus_v:blocks/umbragrasssideswampborder",
+    "particle": "xenoclus_v:blocks/umbrasoilcopy3"
+  }
+}

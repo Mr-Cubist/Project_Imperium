@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_post",
+  "textures": {
+    "wall": "xenoclus_v:blocks/catacomb1",
+    "particle": "xenoclus_v:blocks/catacomb1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xenoclus_v:blocks/double_plant_grass_topcopy3",
+    "particle": "xenoclus_v:blocks/double_plant_grass_topcopy3"
+  }
+}

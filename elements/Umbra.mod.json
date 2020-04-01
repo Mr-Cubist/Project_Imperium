@@ -1,0 +1,80 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.BONE_BLOCK"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 1.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Umbra Transmitter",
+    "igniterTab": {
+      "value": "CUSTOM:UmbraTab"
+    },
+    "texture": "umbratmitter",
+    "portalTexture": "umbraportalblock",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:UmbraPlains"
+      },
+      {
+        "value": "CUSTOM:Autumn"
+      },
+      {
+        "value": "CUSTOM:PeatDesert"
+      },
+      {
+        "value": "CUSTOM:EbonyForest"
+      },
+      {
+        "value": "CUSTOM:UmbraForest"
+      },
+      {
+        "value": "CUSTOM:SoulDesert"
+      },
+      {
+        "value": "CUSTOM:PaintedSwamp"
+      },
+      {
+        "value": "CUSTOM:UmbraMountains"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Umbrastone"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:UmbraSoil"
+    },
+    "tertiaryFillerBlock": {
+      "value": ""
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -6710785,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": "CUSTOM:UmbraSong1"
+    },
+    "onPlayerEntersDimension": {
+      "name": "UmbraReachedTEst"
+    }
+  }
+}

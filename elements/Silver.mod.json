@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "iron_helmet",
+    "enableBody": true,
+    "textureBody": "iron_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "iron_leggings",
+    "enableBoots": true,
+    "textureBoots": "iron_boots",
+    "creativeTab": {
+      "value": "CUSTOM:UmbraTab"
+    },
+    "armorTextureFile": "iron_ copy",
+    "helmetName": "Shalver Helmet",
+    "bodyName": "Shalver Chestplate",
+    "leggingsName": "Shalver Leggings",
+    "bootsName": "Shalver Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 37,
+    "damageValueHelmet": 7,
+    "damageValueBody": 9,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 7,
+    "enchantability": 9,
+    "toughness": 1.6
+  }
+}

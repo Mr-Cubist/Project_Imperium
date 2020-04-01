@@ -1,0 +1,30 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:crunchertooth"
+    },
+    "1": {
+      "item": "xenoclus_v:crunchertooth"
+    },
+    "2": {
+      "item": "xenoclus_v:crunchertooth"
+    },
+    "4": {
+      "item": "minecraft:blaze_rod"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:infernalpick",
+    "count": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "tallumbragrass",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "name": "Umbra Grass",
+    "creativeTab": {
+      "value": "CUSTOM:UmbraTab"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "colorOnMap": "PURPLE",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 32,
+    "spawnWorldTypes": [
+      "CUSTOM:Umbra"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:UmbraPlains"
+      },
+      {
+        "value": "CUSTOM:Autumn"
+      },
+      {
+        "value": "CUSTOM:UmbraForest"
+      },
+      {
+        "value": "CUSTOM:UmbraMountains"
+      }
+    ]
+  }
+}

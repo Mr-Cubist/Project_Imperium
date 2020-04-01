@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:hollowgate"
+    },
+    "title": {
+      "translate": "advancements.yourgonnahaveabadtime.title"
+    },
+    "description": {
+      "translate": "advancements.yourgonnahaveabadtime.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "yourgonnahaveabadtime": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:umbrafortressreached"
+}

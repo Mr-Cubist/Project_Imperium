@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.PRISMARINE_CRYSTALS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PalmLeaf"
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": "CUSTOM:PalmLeaf"
+      },
+      {
+        "value": "Items.PRISMARINE_SHARD"
+      },
+      {
+        "value": "Items.DYE#0"
+      },
+      {
+        "value": "Items.PRISMARINE_SHARD"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Azathoth"
+    },
+    "name": "strangepyramidrecipe",
+    "namespace": "mod"
+  }
+}

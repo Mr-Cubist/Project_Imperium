@@ -1,0 +1,103 @@
+{
+  "_fv": 6,
+  "_type": "block",
+  "definition": {
+    "texture": "abyssalrockbones",
+    "textureTop": "abyssalrock",
+    "textureLeft": "abyssalrock",
+    "textureFront": "abyssalrock",
+    "textureRight": "abyssalrock",
+    "textureBack": "abyssalrock",
+    "renderType": 11,
+    "customModelName": "Single texture",
+    "rotationMode": 0,
+    "hasTransparency": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "faceShape": "SOLID",
+    "name": "Abyssal Bone Ore",
+    "specialInfo": [],
+    "hardness": 8.200000000000001,
+    "resistance": 35.0,
+    "hasGravity": false,
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "destroyTool": "pickaxe",
+    "affectedBySilkTouch": true,
+    "customDrop": {
+      "value": "Items.BONE"
+    },
+    "dropAmount": 3,
+    "isBeaconBase": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 255,
+    "material": {
+      "value": "ROCK"
+    },
+    "tickRate": 10,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "colorOnMap": "BLACK",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "STONE"
+    },
+    "luminance": 0.0,
+    "unbreakable": false,
+    "breakHarvestLevel": 1,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "spawnWorldTypes": [
+      "CUSTOM:Abyss"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:TrenchSands"
+      },
+      {
+        "value": "CUSTOM:AbyssalWastes"
+      }
+    ],
+    "blocksToReplace": [
+      {
+        "value": "CUSTOM:AbyssalStone"
+      },
+      {
+        "value": "CUSTOM:AbyssalStonee"
+      }
+    ],
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 15,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 256
+  }
+}

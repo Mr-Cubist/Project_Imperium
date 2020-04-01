@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "salt_ship_wreck",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 10000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnWorldTypes": [
+      "CUSTOM:Azathoth"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:WhiteSand"
+      },
+      {
+        "value": "CUSTOM:GreenAlgeaGrass"
+      }
+    ],
+    "restrictionBiomes": []
+  }
+}

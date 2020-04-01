@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/krakenkelptop",
+    "up": "xenoclus_v:blocks/krakenkelptop",
+    "north": "xenoclus_v:blocks/krakenkelp",
+    "east": "xenoclus_v:blocks/krakenkelp",
+    "south": "xenoclus_v:blocks/krakenkelp",
+    "west": "xenoclus_v:blocks/krakenkelp",
+    "particle": "xenoclus_v:blocks/krakenkelptop"
+  }
+}

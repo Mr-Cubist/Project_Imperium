@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/cut_sandstone",
+    "up": "xenoclus_v:blocks/cut_sandstone",
+    "north": "xenoclus_v:blocks/cut_sandstone",
+    "east": "xenoclus_v:blocks/cut_sandstone",
+    "south": "xenoclus_v:blocks/cut_sandstone",
+    "west": "xenoclus_v:blocks/cut_sandstone",
+    "particle": "xenoclus_v:blocks/cut_sandstone"
+  }
+}

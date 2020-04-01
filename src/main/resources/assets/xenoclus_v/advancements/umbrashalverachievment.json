@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:shalverore"
+    },
+    "title": {
+      "translate": "advancements.umbrashalverachievment.title"
+    },
+    "description": {
+      "translate": "advancements.umbrashalverachievment.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "umbrashalverachievment": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:umbraminingachievment"
+}

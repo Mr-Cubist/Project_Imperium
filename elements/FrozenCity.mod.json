@@ -1,0 +1,69 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Frozen City",
+    "groundBlock": {
+      "value": "CUSTOM:SnowySoftStone"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:SoftStone"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 0,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "Blocks.AIR"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -3355444,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16724788,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16777063,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 1.0,
+    "temperature": 0.01,
+    "baseHeight": 0.019999999999999997,
+    "heightVariation": 0.0,
+    "spawnBiome": false,
+    "biomeWeight": 2,
+    "biomeType": "ICY",
+    "biomeCategory": "ICY",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "SNOWY",
+      "COLD"
+    ],
+    "spawnList": []
+  }
+}

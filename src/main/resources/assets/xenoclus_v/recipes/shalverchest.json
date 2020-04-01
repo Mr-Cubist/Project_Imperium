@@ -1,0 +1,39 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "2": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "3": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "4": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "5": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "6": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "7": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "8": {
+      "item": "xenoclus_v:shalveringot"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:silverbody",
+    "count": 1
+  }
+}

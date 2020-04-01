@@ -1,0 +1,42 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:aquemingot"
+    },
+    "1": {
+      "item": "xenoclus_v:aquemingot"
+    },
+    "2": {
+      "item": "xenoclus_v:aquemingot"
+    },
+    "3": {
+      "item": "xenoclus_v:aquemingot"
+    },
+    "4": {
+      "item": "xenoclus_v:aquemingot"
+    },
+    "5": {
+      "item": "xenoclus_v:aquemingot"
+    },
+    "6": {
+      "item": "xenoclus_v:aquemingot"
+    },
+    "7": {
+      "item": "xenoclus_v:aquemingot"
+    },
+    "8": {
+      "item": "xenoclus_v:aquemingot"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:aquemblock",
+    "count": 1
+  }
+}

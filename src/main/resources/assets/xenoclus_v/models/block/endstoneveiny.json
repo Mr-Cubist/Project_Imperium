@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/endveins",
+    "up": "xenoclus_v:blocks/endveins",
+    "north": "xenoclus_v:blocks/endveins",
+    "east": "xenoclus_v:blocks/endveins",
+    "south": "xenoclus_v:blocks/endveins",
+    "west": "xenoclus_v:blocks/endveins",
+    "particle": "xenoclus_v:blocks/endveins"
+  }
+}

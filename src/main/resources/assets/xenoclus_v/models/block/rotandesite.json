@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/andesitieforumbra",
+    "up": "xenoclus_v:blocks/andesitieforumbra",
+    "north": "xenoclus_v:blocks/andesitieforumbra",
+    "east": "xenoclus_v:blocks/andesitieforumbra",
+    "south": "xenoclus_v:blocks/andesitieforumbra",
+    "west": "xenoclus_v:blocks/andesitieforumbra",
+    "particle": "xenoclus_v:blocks/andesitieforumbra"
+  }
+}

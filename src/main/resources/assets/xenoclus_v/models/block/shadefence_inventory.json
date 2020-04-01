@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "xenoclus_v:blocks/darkstonebricks",
+    "particle": "xenoclus_v:blocks/darkstonebricks"
+  }
+}

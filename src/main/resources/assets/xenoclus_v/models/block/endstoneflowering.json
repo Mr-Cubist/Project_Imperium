@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/floweringendstone",
+    "up": "xenoclus_v:blocks/floweringendstone",
+    "north": "xenoclus_v:blocks/floweringendstone",
+    "east": "xenoclus_v:blocks/floweringendstone",
+    "south": "xenoclus_v:blocks/floweringendstone",
+    "west": "xenoclus_v:blocks/floweringendstone",
+    "particle": "xenoclus_v:blocks/floweringendstone"
+  }
+}

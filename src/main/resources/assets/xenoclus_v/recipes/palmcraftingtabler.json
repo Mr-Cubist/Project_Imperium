@@ -1,0 +1,26 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:palmwoodplanks"
+    },
+    "1": {
+      "item": "xenoclus_v:palmwoodplanks"
+    },
+    "2": {
+      "item": "xenoclus_v:palmwoodplanks"
+    },
+    "3": {
+      "item": "xenoclus_v:palmwoodplanks"
+    }
+  },
+  "result": {
+    "item": "minecraft:crafting_table",
+    "count": 1
+  }
+}

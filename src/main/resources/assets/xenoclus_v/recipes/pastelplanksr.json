@@ -1,0 +1,16 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:seapalmlogplaceable"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:pastelplanks",
+    "count": 4
+  }
+}

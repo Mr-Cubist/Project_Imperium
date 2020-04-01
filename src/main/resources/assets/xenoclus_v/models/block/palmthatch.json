@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/hay_block_top",
+    "up": "xenoclus_v:blocks/hay_block_top",
+    "north": "xenoclus_v:blocks/hay_block_side",
+    "east": "xenoclus_v:blocks/hay_block_side",
+    "south": "xenoclus_v:blocks/hay_block_side",
+    "west": "xenoclus_v:blocks/hay_block_side",
+    "particle": "xenoclus_v:blocks/hay_block_top"
+  }
+}

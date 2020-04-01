@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "borealarkvasecache",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 9000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Underground",
+    "spawnHeightOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Borealark"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:BorealStone"
+      }
+    ],
+    "restrictionBiomes": []
+  }
+}

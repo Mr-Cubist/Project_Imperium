@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xenoclus_v:blocks/frosted_ice_0copy3",
+    "particle": "xenoclus_v:blocks/frosted_ice_0copy3"
+  }
+}

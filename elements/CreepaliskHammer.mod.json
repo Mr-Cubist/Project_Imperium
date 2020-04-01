@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "creepaliskhammer",
+    "customModelName": "creepaliskhammer:default",
+    "name": "Fusurper Hammer",
+    "creativeTab": {
+      "value": "CUSTOM:XenoclusOverwolrd"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 1.0,
+    "attackSpeed": 0.7999999999999999,
+    "enchantability": 5,
+    "damageVsEntity": 9.0,
+    "usageCount": 400,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AncientOverworldShard"
+      }
+    ],
+    "onRightClickedOnBlock": {
+      "name": "PlaceBomb"
+    }
+  }
+}

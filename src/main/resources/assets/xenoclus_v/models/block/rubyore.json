@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/rubyore",
+    "up": "xenoclus_v:blocks/rubyore",
+    "north": "xenoclus_v:blocks/rubyore",
+    "east": "xenoclus_v:blocks/rubyore",
+    "south": "xenoclus_v:blocks/rubyore",
+    "west": "xenoclus_v:blocks/rubyore",
+    "particle": "xenoclus_v:blocks/rubyore"
+  }
+}

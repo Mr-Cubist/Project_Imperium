@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "aroura",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 1999,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Air",
+    "spawnHeightOffset": 10,
+    "spawnWorldTypes": [
+      "CUSTOM:Borealark"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "restrictionBiomes": []
+  }
+}

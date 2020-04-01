@@ -1,0 +1,23 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:ebonyplanks"
+    },
+    "2": {
+      "item": "xenoclus_v:ebonyplanks"
+    },
+    "3": {
+      "item": "xenoclus_v:ebonyplanks"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:ebonystairs",
+    "count": 3
+  }
+}

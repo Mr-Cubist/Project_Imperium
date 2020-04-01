@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:creeperbossbomb"
+    },
+    "title": {
+      "translate": "advancements.okboomer.title"
+    },
+    "description": {
+      "translate": "advancements.okboomer.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "okboomer": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "xenoclus_v:awwman"
+}

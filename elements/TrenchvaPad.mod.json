@@ -1,0 +1,39 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "trenchpad",
+    "customModelName": "Cross model",
+    "plantType": "growapable",
+    "growapableSpawnType": "Water",
+    "growapableMaxHeight": 1,
+    "name": "Trenchva Pad",
+    "creativeTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "hardness": 1.0,
+    "resistance": 1.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "colorOnMap": "BLUE",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 14,
+    "spawnWorldTypes": [
+      "CUSTOM:Abyss"
+    ],
+    "restrictionBiomes": []
+  }
+}

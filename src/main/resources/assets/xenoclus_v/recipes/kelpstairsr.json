@@ -1,0 +1,23 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:kelpplanks"
+    },
+    "2": {
+      "item": "xenoclus_v:kelpplanks"
+    },
+    "3": {
+      "item": "xenoclus_v:kelpplanks"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:krakenstairs",
+    "count": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "xenoclus_v:azathoth_portal_ew"
+    },
+    "axis=x": {
+      "model": "xenoclus_v:azathoth_portal_ns"
+    },
+    "inventory": {
+      "model": "xenoclus_v:azathoth_portal_ns"
+    }
+  }
+}

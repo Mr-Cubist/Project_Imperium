@@ -1,0 +1,42 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:prisorningot"
+    },
+    "1": {
+      "item": "xenoclus_v:prisorningot"
+    },
+    "2": {
+      "item": "xenoclus_v:prisorningot"
+    },
+    "3": {
+      "item": "xenoclus_v:prisorningot"
+    },
+    "4": {
+      "item": "xenoclus_v:prisorningot"
+    },
+    "5": {
+      "item": "xenoclus_v:prisorningot"
+    },
+    "6": {
+      "item": "xenoclus_v:prisorningot"
+    },
+    "7": {
+      "item": "xenoclus_v:prisorningot"
+    },
+    "8": {
+      "item": "xenoclus_v:prisorningot"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:prisornblock",
+    "count": 1
+  }
+}

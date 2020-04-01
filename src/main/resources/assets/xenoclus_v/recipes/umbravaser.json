@@ -1,0 +1,33 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "2": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "3": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "4": {
+      "item": "minecraft:clay_ball"
+    },
+    "5": {
+      "item": "xenoclus_v:shalveringot"
+    },
+    "7": {
+      "item": "xenoclus_v:shalveringot"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:umbravase",
+    "count": 1
+  }
+}

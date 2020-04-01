@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/blendedflesh",
+    "up": "xenoclus_v:blocks/blendedflesh",
+    "north": "xenoclus_v:blocks/blendedflesh",
+    "east": "xenoclus_v:blocks/blendedflesh",
+    "south": "xenoclus_v:blocks/blendedflesh",
+    "west": "xenoclus_v:blocks/blendedflesh",
+    "particle": "xenoclus_v:blocks/blendedflesh"
+  }
+}

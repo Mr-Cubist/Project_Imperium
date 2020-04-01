@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/trueebonyleaves",
+    "up": "xenoclus_v:blocks/trueebonyleaves",
+    "north": "xenoclus_v:blocks/trueebonyleaves",
+    "east": "xenoclus_v:blocks/trueebonyleaves",
+    "south": "xenoclus_v:blocks/trueebonyleaves",
+    "west": "xenoclus_v:blocks/trueebonyleaves",
+    "particle": "xenoclus_v:blocks/trueebonyleaves"
+  }
+}

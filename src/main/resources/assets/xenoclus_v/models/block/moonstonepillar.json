@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/moonpillartop",
+    "up": "xenoclus_v:blocks/moonpillartop",
+    "north": "xenoclus_v:blocks/moonpillarside",
+    "east": "xenoclus_v:blocks/moonpillarside",
+    "south": "xenoclus_v:blocks/moonpillarside",
+    "west": "xenoclus_v:blocks/moonpillarside",
+    "particle": "xenoclus_v:blocks/moonpillartop"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/reaaalllyfrozenstone",
+    "up": "xenoclus_v:blocks/reaaalllyfrozenstone",
+    "north": "xenoclus_v:blocks/reaaalllyfrozenstone",
+    "east": "xenoclus_v:blocks/reaaalllyfrozenstone",
+    "south": "xenoclus_v:blocks/reaaalllyfrozenstone",
+    "west": "xenoclus_v:blocks/reaaalllyfrozenstone",
+    "particle": "xenoclus_v:blocks/reaaalllyfrozenstone"
+  }
+}

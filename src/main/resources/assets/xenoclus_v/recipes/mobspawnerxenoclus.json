@@ -1,0 +1,45 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 15
+    },
+    "1": {
+      "item": "minecraft:nether_star"
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 15
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "minecraft:golden_apple",
+      "data": 32767
+    },
+    "5": {
+      "item": "minecraft:emerald"
+    },
+    "6": {
+      "item": "minecraft:egg"
+    },
+    "7": {
+      "item": "xenoclus_v:ironcage"
+    },
+    "8": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:mob_spawner",
+    "count": 1
+  }
+}

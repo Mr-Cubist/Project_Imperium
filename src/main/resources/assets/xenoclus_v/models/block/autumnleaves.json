@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/autumnleavesredone",
+    "up": "xenoclus_v:blocks/autumnleavesredone",
+    "north": "xenoclus_v:blocks/autumnleavesredone",
+    "east": "xenoclus_v:blocks/autumnleavesredone",
+    "south": "xenoclus_v:blocks/autumnleavesredone",
+    "west": "xenoclus_v:blocks/autumnleavesredone",
+    "particle": "xenoclus_v:blocks/autumnleavesredone"
+  }
+}

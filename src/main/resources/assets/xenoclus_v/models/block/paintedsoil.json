@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/paintedsoil",
+    "up": "xenoclus_v:blocks/paintedsoil",
+    "north": "xenoclus_v:blocks/paintedsoil",
+    "east": "xenoclus_v:blocks/paintedsoil",
+    "south": "xenoclus_v:blocks/paintedsoil",
+    "west": "xenoclus_v:blocks/paintedsoil",
+    "particle": "xenoclus_v:blocks/paintedsoil"
+  }
+}

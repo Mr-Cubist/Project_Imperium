@@ -1,0 +1,42 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 2,
+    "texture": "nethercactus_copy",
+    "customModelName": "ncacti:default",
+    "plantType": "growapable",
+    "growapableSpawnType": "Nether",
+    "growapableMaxHeight": 5,
+    "name": "Verctus",
+    "creativeTab": {
+      "value": "CUSTOM:XenoclusOverwolrd"
+    },
+    "hardness": 3.0,
+    "resistance": 2.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "CLOTH"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "colorOnMap": "DIRT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 6,
+    "spawnWorldTypes": [
+      "Nether"
+    ],
+    "restrictionBiomes": [],
+    "onEntityCollides": {
+      "name": "DamageOnContact"
+    }
+  }
+}

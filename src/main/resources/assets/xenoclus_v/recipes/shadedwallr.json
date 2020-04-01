@@ -1,0 +1,32 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:shadedbricks"
+    },
+    "1": {
+      "item": "xenoclus_v:shadedbricks"
+    },
+    "2": {
+      "item": "xenoclus_v:shadedbricks"
+    },
+    "3": {
+      "item": "xenoclus_v:shadedbricks"
+    },
+    "4": {
+      "item": "xenoclus_v:shadedbricks"
+    },
+    "5": {
+      "item": "xenoclus_v:shadedbricks"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:shadewall",
+    "count": 6
+  }
+}

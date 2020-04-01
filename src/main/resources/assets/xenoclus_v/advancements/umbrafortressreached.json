@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:shadedbricks"
+    },
+    "title": {
+      "translate": "advancements.umbrafortressreached.title"
+    },
+    "description": {
+      "translate": "advancements.umbrafortressreached.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "umbrafortressreached": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:umbraminingachievment"
+}

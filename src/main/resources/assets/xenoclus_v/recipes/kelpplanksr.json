@@ -1,0 +1,13 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xenoclus_v:megakelpplaceable"
+    }
+  ],
+  "result": {
+    "item": "xenoclus_v:kelpplanks",
+    "count": 4
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Dark Wastes",
+    "groundBlock": {
+      "value": "CUSTOM:AbyssalStone"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:AbyssalStone"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 0,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "Blocks.AIR"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -16777165,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16777165,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16777165,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.6,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 13,
+    "biomeType": "COOL",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "WET",
+      "SPOOKY"
+    ],
+    "spawnList": []
+  }
+}

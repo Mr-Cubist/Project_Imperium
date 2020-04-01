@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:catacombtomb"
+    },
+    "title": {
+      "translate": "advancements.catacombsachievment.title"
+    },
+    "description": {
+      "translate": "advancements.catacombsachievment.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "catacombsachievment": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:umbraminingachievment"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "xenoclus_v:blocks/gloomscaltonepavement",
+    "top": "xenoclus_v:blocks/gloomscaltonepavement",
+    "side": "xenoclus_v:blocks/gloomscaltonepavement"
+  }
+}

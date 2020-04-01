@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=1": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=2": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=3": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=4": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=5": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=6": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=7": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=8": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=9": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=10": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=11": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=12": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=13": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=14": {
+      "model": "xenoclus_v:trenchvapad"
+    },
+    "age=15": {
+      "model": "xenoclus_v:trenchvapad"
+    }
+  }
+}

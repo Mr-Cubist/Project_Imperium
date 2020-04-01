@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:flockedjollytreetop"
+    },
+    "title": {
+      "translate": "advancements.whitechristmas.title"
+    },
+    "description": {
+      "translate": "advancements.whitechristmas.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "whitechristmas": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:merrychristmas"
+}

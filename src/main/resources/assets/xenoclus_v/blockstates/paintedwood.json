@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "xenoclus_v:paintedwood"
+    },
+    "facing=south": {
+      "model": "xenoclus_v:paintedwood"
+    },
+    "facing=north": {
+      "model": "xenoclus_v:paintedwood"
+    },
+    "facing=east": {
+      "model": "xenoclus_v:paintedwood",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "xenoclus_v:paintedwood",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "xenoclus_v:paintedwood",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "xenoclus_v:paintedwood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

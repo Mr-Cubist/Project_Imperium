@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:infernalpick"
+    },
+    "title": {
+      "translate": "advancements.speeddemonachievement.title"
+    },
+    "description": {
+      "translate": "advancements.speeddemonachievement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "speeddemonachievement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "minecraft:story/shiny_gear"
+}

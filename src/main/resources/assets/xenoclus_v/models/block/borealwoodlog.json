@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/borealwoodlogtop",
+    "up": "xenoclus_v:blocks/borealwoodlogtop",
+    "north": "xenoclus_v:blocks/borealwoodlog",
+    "east": "xenoclus_v:blocks/borealwoodlog",
+    "south": "xenoclus_v:blocks/borealwoodlog",
+    "west": "xenoclus_v:blocks/borealwoodlog",
+    "particle": "xenoclus_v:blocks/borealwoodlogtop"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "xenoclus_v:blocks/seaplanks",
+    "top": "xenoclus_v:blocks/seaplanks",
+    "side": "xenoclus_v:blocks/seaplanks"
+  }
+}

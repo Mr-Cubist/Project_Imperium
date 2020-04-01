@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "xenoclus_v:textures/umbraachievement.png",
+    "icon": {
+      "item": "xenoclus_v:umbragrass"
+    },
+    "title": {
+      "translate": "advancements.umbrareached.title"
+    },
+    "description": {
+      "translate": "advancements.umbrareached.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "umbrareached": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  }
+}

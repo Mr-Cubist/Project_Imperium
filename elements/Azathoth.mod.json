@@ -1,0 +1,71 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.PRISMARINE"
+    },
+    "portalParticles": {
+      "value": "WATER_BUBBLE"
+    },
+    "portalLuminance": 0.7,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Strange Pyramid",
+    "igniterTab": {
+      "value": "CUSTOM:AzathothTab"
+    },
+    "texture": "dark_prismarine",
+    "portalTexture": "azathothportal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:AzathothAquaBeach"
+      },
+      {
+        "value": "CUSTOM:PastelPalms"
+      },
+      {
+        "value": "CUSTOM:KelpForest"
+      },
+      {
+        "value": "CUSTOM:BrightReef"
+      },
+      {
+        "value": "CUSTOM:AzathothMountains"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:RoseStone"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:WhiteSand"
+    },
+    "tertiaryFillerBlock": {
+      "value": ""
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -13434778,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "dimensionMusic": {
+      "value": "CUSTOM:AzathothSurface"
+    },
+    "onPlayerEntersDimension": {
+      "name": "AzathothAchievementGet"
+    }
+  }
+}

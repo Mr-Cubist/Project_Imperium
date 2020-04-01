@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/bedrock",
+    "up": "xenoclus_v:blocks/bedrock",
+    "north": "xenoclus_v:blocks/bedrock",
+    "east": "xenoclus_v:blocks/bedrock",
+    "south": "xenoclus_v:blocks/bedrock",
+    "west": "xenoclus_v:blocks/bedrock",
+    "particle": "xenoclus_v:blocks/bedrock"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Ice Plains",
+    "groundBlock": {
+      "value": "Blocks.ICE"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.PACKED_ICE"
+    },
+    "generateLakes": true,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 8,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "Blocks.PACKED_ICE"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -3342337,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16751002,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16764007,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.8,
+    "temperature": 0.02,
+    "baseHeight": 0.09000000000000001,
+    "heightVariation": 0.0,
+    "spawnBiome": false,
+    "biomeWeight": 7,
+    "biomeType": "ICY",
+    "biomeCategory": "ICY",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "COLD"
+    ],
+    "spawnList": [
+      {
+        "value": "EntityStray"
+      }
+    ]
+  }
+}

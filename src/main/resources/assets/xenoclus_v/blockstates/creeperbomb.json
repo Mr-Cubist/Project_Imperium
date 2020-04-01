@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "xenoclus_v:creeperbomb"
+    },
+    "facing=north": {
+      "model": "xenoclus_v:creeperbomb"
+    },
+    "facing=east": {
+      "model": "xenoclus_v:creeperbomb",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xenoclus_v:creeperbomb",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xenoclus_v:creeperbomb",
+      "y": 270
+    }
+  }
+}

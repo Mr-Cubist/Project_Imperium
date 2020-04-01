@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xenoclus_v:dreamdust"
+    },
+    "title": {
+      "translate": "advancements.sweetdreams.title"
+    },
+    "description": {
+      "translate": "advancements.sweetdreams.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sweetdreams": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "xenoclus_v:borealarkachievement"
+}

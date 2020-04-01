@@ -1,0 +1,26 @@
+{
+  "group": "xenoclus_v",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "xenoclus_v:ancientoverworldshard"
+    },
+    "2": {
+      "item": "xenoclus_v:ancientoverworldshard"
+    },
+    "3": {
+      "item": "xenoclus_v:ancientoverworldshard"
+    },
+    "5": {
+      "item": "xenoclus_v:ancientoverworldshard"
+    }
+  },
+  "result": {
+    "item": "xenoclus_v:creepaliskarmorboots",
+    "count": 1
+  }
+}

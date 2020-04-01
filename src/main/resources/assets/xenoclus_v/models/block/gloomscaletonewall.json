@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "xenoclus_v:blocks/gloomscaltone",
+    "particle": "xenoclus_v:blocks/gloomscaltone"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xenoclus_v:blocks/alloyfolds",
+    "up": "xenoclus_v:blocks/alloyfolds",
+    "north": "xenoclus_v:blocks/alloyfolds",
+    "east": "xenoclus_v:blocks/alloyfolds",
+    "south": "xenoclus_v:blocks/alloyfolds",
+    "west": "xenoclus_v:blocks/alloyfolds",
+    "particle": "xenoclus_v:blocks/alloyfolds"
+  }
+}
