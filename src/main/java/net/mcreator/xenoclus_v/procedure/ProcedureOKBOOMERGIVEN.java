@@ -40,7 +40,10 @@ public class ProcedureOKBOOMERGIVEN extends ElementsXenoclusOne.ModElement {
 				}
 			}
 		}
-		if (entity instanceof EntityPlayer)
-			ItemHandlerHelper.giveItemToPlayer(((EntityPlayer) entity), new ItemStack(ItemAncientOverworldShard.block, (int) (3)));
+		if (entity instanceof EntityPlayer) {
+			ItemStack _setstack = new ItemStack(ItemAncientOverworldShard.block, (int) (1));
+			_setstack.setCount(3);
+			ItemHandlerHelper.giveItemToPlayer(((EntityPlayer) entity), _setstack);
+		}
 	}
 }

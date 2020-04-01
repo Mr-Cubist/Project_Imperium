@@ -1,8 +1,8 @@
 {
   "id_map": {
+    "DIMENSION": 5,
     "ENTITY": 117,
-    "GUI": 3,
-    "DIMENSION": 5
+    "GUI": 3
   },
   "mod_elements": [
     {
@@ -8176,5 +8176,5 @@
     "currentGenerator": "1.12.2",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000213616
+  "mcreatorVersion": 202000214217
 }
